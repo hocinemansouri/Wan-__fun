@@ -1,11 +1,11 @@
 {
 	"Sectors":
 	[
-		{"ELECTRICIEN","1"},
-		{"MACON","2"},
-		{"MECANICIEN","3"},
-		{"PEINTRE","4"},
-		{"PLOMBIER","5"},
-		{"TAXI","6"}
+		{"familyName" : "ELECTRICIEN","familyID" : "1"},
+		{"familyName" : "MACON","familyID" : "2"},
+		{"familyName" : "MECANICIEN","familyID" : "3"},
+		{"familyName" : "PEINTRE","familyID" : "4"},
+		{"familyName" : "PLOMBIER","familyID" : "5"},
+		{"familyName" : "TAXI","familyID" : "6"}
 	]
 }
