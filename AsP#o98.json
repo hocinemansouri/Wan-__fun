@@ -1,6 +1,11 @@
 {
 	"Sectors":
 	[
-		{""}
+		{"ELECTRICIEN","1"},
+		{"MACON","2"},
+		{"MECANICIEN","3"},
+		{"PEINTRE","4"},
+		{"PLOMBIER","5"},
+		{"TAXI","6"}
 	]
 }
