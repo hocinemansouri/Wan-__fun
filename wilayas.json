@@ -1,0 +1,197 @@
+{
+  "wilaya":
+  [
+  {
+    "CODE_WILAYA": 1,
+    "WILAYA": "ADRAR"
+  },
+  {
+    "CODE_WILAYA": 2,
+    "WILAYA": "CHLEF"
+  },
+  {
+    "CODE_WILAYA": 3,
+    "WILAYA": "LAGHOUAT"
+  },
+  {
+    "CODE_WILAYA": 4,
+    "WILAYA": "OUM EL BOUAGHI"
+  },
+  {
+    "CODE_WILAYA": 5,
+    "WILAYA": "BATNA"
+  },
+  {
+    "CODE_WILAYA": 6,
+    "WILAYA": "BEJAIA"
+  },
+  {
+    "CODE_WILAYA": 7,
+    "WILAYA": "BISKRA"
+  },
+  {
+    "CODE_WILAYA": 8,
+    "WILAYA": "BECHAR"
+  },
+  {
+    "CODE_WILAYA": 9,
+    "WILAYA": "BLIDA"
+  },
+  {
+    "CODE_WILAYA": 10,
+    "WILAYA": "BOUIRA"
+  },
+  {
+    "CODE_WILAYA": 11,
+    "WILAYA": "TAMANRASSET"
+  },
+  {
+    "CODE_WILAYA": 12,
+    "WILAYA": "TEBESSA"
+  },
+  {
+    "CODE_WILAYA": 13,
+    "WILAYA": "TLEMCEN"
+  },
+  {
+    "CODE_WILAYA": 14,
+    "WILAYA": "TIARET"
+  },
+  {
+    "CODE_WILAYA": 15,
+    "WILAYA": "TIZI-OUZOU"
+  },
+  {
+    "CODE_WILAYA": 16,
+    "WILAYA": "ALGER"
+  },
+  {
+    "CODE_WILAYA": 17,
+    "WILAYA": "DJELFA"
+  },
+  {
+    "CODE_WILAYA": 18,
+    "WILAYA": "JIJEL"
+  },
+  {
+    "CODE_WILAYA": 19,
+    "WILAYA": "SETIF"
+  },
+  {
+    "CODE_WILAYA": 20,
+    "WILAYA": "SAIDA"
+  },
+  {
+    "CODE_WILAYA": 21,
+    "WILAYA": "SKIKDA"
+  },
+  {
+    "CODE_WILAYA": 22,
+    "WILAYA": "SIDI BEL ABBES"
+  },
+  {
+    "CODE_WILAYA": 23,
+    "WILAYA": "ANNABA"
+  },
+  {
+    "CODE_WILAYA": 24,
+    "WILAYA": "GUELMA"
+  },
+  {
+    "CODE_WILAYA": 25,
+    "WILAYA": "CONSTANTINE"
+  },
+  {
+    "CODE_WILAYA": 26,
+    "WILAYA": "MEDEA"
+  },
+  {
+    "CODE_WILAYA": 27,
+    "WILAYA": "MOSTAGANEM"
+  },
+  {
+    "CODE_WILAYA": 28,
+    "WILAYA": "MSILA"
+  },
+  {
+    "CODE_WILAYA": 29,
+    "WILAYA": "MASCARA"
+  },
+  {
+    "CODE_WILAYA": 30,
+    "WILAYA": "OUARGLA"
+  },
+  {
+    "CODE_WILAYA": 31,
+    "WILAYA": "ORAN"
+  },
+  {
+    "CODE_WILAYA": 32,
+    "WILAYA": "EL BAYADH"
+  },
+  {
+    "CODE_WILAYA": 33,
+    "WILAYA": "ILLIZI"
+  },
+  {
+    "CODE_WILAYA": 34,
+    "WILAYA": "BORDJ BOUARRERIDJ"
+  },
+  {
+    "CODE_WILAYA": 35,
+    "WILAYA": "BOUMERDES"
+  },
+  {
+    "CODE_WILAYA": 36,
+    "WILAYA": "EL TARF"
+  },
+  {
+    "CODE_WILAYA": 37,
+    "WILAYA": "TINDOUF"
+  },
+  {
+    "CODE_WILAYA": 38,
+    "WILAYA": "TISSEMSILT"
+  },
+  {
+    "CODE_WILAYA": 39,
+    "WILAYA": "EL OUED"
+  },
+  {
+    "CODE_WILAYA": 40,
+    "WILAYA": "KHENCHLA"
+  },
+  {
+    "CODE_WILAYA": 41,
+    "WILAYA": "SOUK AHRAS"
+  },
+  {
+    "CODE_WILAYA": 42,
+    "WILAYA": "TIPAZA"
+  },
+  {
+    "CODE_WILAYA": 43,
+    "WILAYA": "MILA"
+  },
+  {
+    "CODE_WILAYA": 44,
+    "WILAYA": "AIN DEFLA"
+  },
+  {
+    "CODE_WILAYA": 45,
+    "WILAYA": "NAAMA"
+  },
+  {
+    "CODE_WILAYA": 46,
+    "WILAYA": "AIN TEMOUCHENT"
+  },
+  {
+    "CODE_WILAYA": 47,
+    "WILAYA": "GHARDAIA"
+  },
+  {
+    "CODE_WILAYA": 48,
+    "WILAYA": "RELIZANE"
+  }
+]
+}
