@@ -1,0 +1,7710 @@
+{
+  "commune":
+  [
+  {
+    "Code_Commune": 101,
+    "Nom_Commune": "ADRAR",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 102,
+    "Nom_Commune": "TAMEST",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 104,
+    "Nom_Commune": "REGGANE",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 105,
+    "Nom_Commune": "IN-ZGHMIR",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 106,
+    "Nom_Commune": "TIT",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 107,
+    "Nom_Commune": "KSAR KADDOUR",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 108,
+    "Nom_Commune": "TSABIT",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 109,
+    "Nom_Commune": "TIMIMOUN",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 110,
+    "Nom_Commune": "OULED SAID",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 111,
+    "Nom_Commune": "ZAOUIET KOUNTA",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 112,
+    "Nom_Commune": "AOULEF",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 113,
+    "Nom_Commune": "TIMEKTEN",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 114,
+    "Nom_Commune": "TAMANTIT",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 115,
+    "Nom_Commune": "FENOUGHIL",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 116,
+    "Nom_Commune": "TINERKOUK",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 117,
+    "Nom_Commune": "DELDOUL",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 118,
+    "Nom_Commune": "SALI",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 119,
+    "Nom_Commune": "AKABLI",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 120,
+    "Nom_Commune": "METARFA",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 121,
+    "Nom_Commune": "OULED AHMED TIMMI",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 122,
+    "Nom_Commune": "BOUDA",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 123,
+    "Nom_Commune": "AOUGROUT",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 124,
+    "Nom_Commune": "TALMINE",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 125,
+    "Nom_Commune": "BORDJ BAJI MOKHTAR",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 126,
+    "Nom_Commune": "SEBAA",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 127,
+    "Nom_Commune": "OULED AISSA",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 128,
+    "Nom_Commune": "TIMIAOUINE",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 103,
+    "Nom_Commune": "CHAROUINE",
+    "Id_Wilaya": 1
+  },
+  {
+    "Code_Commune": 201,
+    "Nom_Commune": "CHLEF",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 202,
+    "Nom_Commune": "TENES",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 203,
+    "Nom_Commune": "BENAIRIA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 204,
+    "Nom_Commune": "EL KARIMIA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 205,
+    "Nom_Commune": "TADJENA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 206,
+    "Nom_Commune": "TAOUGRITE",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 207,
+    "Nom_Commune": "BENI HAOUA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 208,
+    "Nom_Commune": "SOBHA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 209,
+    "Nom_Commune": "HARCHOUN",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 210,
+    "Nom_Commune": "OULED FARES",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 211,
+    "Nom_Commune": "SIDI AKKACHA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 212,
+    "Nom_Commune": "BOUKADIR",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 213,
+    "Nom_Commune": "BENI RACHED",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 214,
+    "Nom_Commune": "TALASSA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 215,
+    "Nom_Commune": "HERENFA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 216,
+    "Nom_Commune": "OUED GOUSSINE",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 217,
+    "Nom_Commune": "DAHRA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 218,
+    "Nom_Commune": "OULED ABBES",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 219,
+    "Nom_Commune": "SENDJAS",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 220,
+    "Nom_Commune": "ZEBOUDJA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 221,
+    "Nom_Commune": "OUED SLY",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 222,
+    "Nom_Commune": "ABOU EL HASSAN",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 223,
+    "Nom_Commune": "EL MARSA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 224,
+    "Nom_Commune": "CHETTIA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 225,
+    "Nom_Commune": "SIDI ABDERRAHMANE",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 226,
+    "Nom_Commune": "MOUSSADEK",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 227,
+    "Nom_Commune": "EL HADJADJ",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 228,
+    "Nom_Commune": "LABIOD MEDJADJA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 229,
+    "Nom_Commune": "OUED FODDA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 230,
+    "Nom_Commune": "OULED B.ABDELKADER",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 231,
+    "Nom_Commune": "BOUZEGHAIA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 232,
+    "Nom_Commune": "AIN MERANE",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 233,
+    "Nom_Commune": "OUM DROU",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 234,
+    "Nom_Commune": "BREIRA",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 235,
+    "Nom_Commune": "BENI BOUATEB",
+    "Id_Wilaya": 2
+  },
+  {
+    "Code_Commune": 301,
+    "Nom_Commune": "LAGHOUAT",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 302,
+    "Nom_Commune": "KSAR EL HIRANE",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 303,
+    "Nom_Commune": "BENACER BEN CHOHRA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 304,
+    "Nom_Commune": "SIDI MAKHLOUF",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 305,
+    "Nom_Commune": "HASSI DELAA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 306,
+    "Nom_Commune": "HASSI R'MEL",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 307,
+    "Nom_Commune": "AIN MADHI",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 308,
+    "Nom_Commune": "TADJEMOUT",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 309,
+    "Nom_Commune": "KHENEG",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 310,
+    "Nom_Commune": "GUELTAT SIDI SAAD",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 311,
+    "Nom_Commune": "AIN SIDI ALI",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 312,
+    "Nom_Commune": "BEIDHA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 313,
+    "Nom_Commune": "BRIDA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 314,
+    "Nom_Commune": "EL GHICHA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 315,
+    "Nom_Commune": "HADJ MECHRI",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 316,
+    "Nom_Commune": "SEBGAG",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 317,
+    "Nom_Commune": "TAOUIALA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 318,
+    "Nom_Commune": "TADJROUNA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 319,
+    "Nom_Commune": "AFLOU",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 320,
+    "Nom_Commune": "EL ASSAFIA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 321,
+    "Nom_Commune": "OUED MORRA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 322,
+    "Nom_Commune": "OUED M'ZI",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 323,
+    "Nom_Commune": "EL HAOUAITA",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 324,
+    "Nom_Commune": "SIDI BOUZID",
+    "Id_Wilaya": 3
+  },
+  {
+    "Code_Commune": 401,
+    "Nom_Commune": "OUM.EL.BOUAGHI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 402,
+    "Nom_Commune": "AIN BEIDA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 403,
+    "Nom_Commune": "AIN M'LILA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 404,
+    "Nom_Commune": "BEHIR CHERGUI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 405,
+    "Nom_Commune": "EL AMIRIA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 406,
+    "Nom_Commune": "SIGUS",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 407,
+    "Nom_Commune": "EL BELALA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 408,
+    "Nom_Commune": "AIN BABOUCHE",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 409,
+    "Nom_Commune": "BERRICHE",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 410,
+    "Nom_Commune": "OULED HAMLA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 411,
+    "Nom_Commune": "DHALA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 412,
+    "Nom_Commune": "AIN KERCHA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 413,
+    "Nom_Commune": "HANCHIR TOUMGHANI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 414,
+    "Nom_Commune": "EL DJAZIA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 415,
+    "Nom_Commune": "AIN DISS",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 416,
+    "Nom_Commune": "FKIRINA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 417,
+    "Nom_Commune": "SOUK NAAMANE",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 418,
+    "Nom_Commune": "ZORG",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 419,
+    "Nom_Commune": "EL FEDJOUDJ.B.S",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 420,
+    "Nom_Commune": "OULED ZOUAI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 421,
+    "Nom_Commune": "BIR CHOUHADA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 422,
+    "Nom_Commune": "KSAR SBAHI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 423,
+    "Nom_Commune": "OUED NINI",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 424,
+    "Nom_Commune": "MESKIANA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 425,
+    "Nom_Commune": "AIN FAKROUN",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 426,
+    "Nom_Commune": "RAHIA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 427,
+    "Nom_Commune": "AIN ZITOUN",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 428,
+    "Nom_Commune": "OULED GACEM",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 429,
+    "Nom_Commune": "EL HARMILIA",
+    "Id_Wilaya": 4
+  },
+  {
+    "Code_Commune": 501,
+    "Nom_Commune": "BATNA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 502,
+    "Nom_Commune": "GHASSIRA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 503,
+    "Nom_Commune": "MAAFA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 504,
+    "Nom_Commune": "MEROUANA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 505,
+    "Nom_Commune": "SERIANA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 506,
+    "Nom_Commune": "MENAA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 507,
+    "Nom_Commune": "EL MADHER",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 508,
+    "Nom_Commune": "TAZOULT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 509,
+    "Nom_Commune": "N'GAOUS",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 510,
+    "Nom_Commune": "GUIGBA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 511,
+    "Nom_Commune": "INOUGHISSEN",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 512,
+    "Nom_Commune": "OUYOUN EL ASSAFIR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 513,
+    "Nom_Commune": "DJERMA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 514,
+    "Nom_Commune": "BITAM",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 515,
+    "Nom_Commune": "AZIL A EL KADER",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 516,
+    "Nom_Commune": "ARRIS",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 517,
+    "Nom_Commune": "KIMMEL",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 518,
+    "Nom_Commune": "TILATOU",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 519,
+    "Nom_Commune": "AIN DJASSER",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 520,
+    "Nom_Commune": "OULED SELLAM",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 521,
+    "Nom_Commune": "TIGHERGHAR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 522,
+    "Nom_Commune": "AIN YAGOUT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 523,
+    "Nom_Commune": "FESDIS",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 524,
+    "Nom_Commune": "SEFIANE",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 525,
+    "Nom_Commune": "RAHBAT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 526,
+    "Nom_Commune": "TIGHANIMINE",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 527,
+    "Nom_Commune": "LEMSANE",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 528,
+    "Nom_Commune": "KSAR BELLEZMA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 529,
+    "Nom_Commune": "SEGGANA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 530,
+    "Nom_Commune": "ICHMOUL",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 531,
+    "Nom_Commune": "FOUM TOUB",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 532,
+    "Nom_Commune": "BENI FOUDHALA E.H",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 533,
+    "Nom_Commune": "OUED EL MA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 534,
+    "Nom_Commune": "TALKHAMT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 535,
+    "Nom_Commune": "BOUZINA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 536,
+    "Nom_Commune": "CHEMORA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 537,
+    "Nom_Commune": "OUED CHAABA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 538,
+    "Nom_Commune": "TAXLENT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 539,
+    "Nom_Commune": "GOSBAT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 540,
+    "Nom_Commune": "OULED AOUF",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 541,
+    "Nom_Commune": "BOUMAGUEUR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 542,
+    "Nom_Commune": "BARIKA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 543,
+    "Nom_Commune": "DJEZZAR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 544,
+    "Nom_Commune": "T'KOUT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 545,
+    "Nom_Commune": "AIN TOUTA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 546,
+    "Nom_Commune": "HIDOUSSA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 547,
+    "Nom_Commune": "TENIET EL ABED",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 548,
+    "Nom_Commune": "OUED TAGA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 549,
+    "Nom_Commune": "OULED FADEL",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 550,
+    "Nom_Commune": "TIMGAD",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 551,
+    "Nom_Commune": "RAS EL AIOUN",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 552,
+    "Nom_Commune": "CHIR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 553,
+    "Nom_Commune": "OULED SI SLIMANE",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 554,
+    "Nom_Commune": "ZANAT EL BEIDA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 555,
+    "Nom_Commune": "AMDOUKAL",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 556,
+    "Nom_Commune": "OULED AMMAR",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 557,
+    "Nom_Commune": "EL HASSI",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 558,
+    "Nom_Commune": "LAZROU",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 559,
+    "Nom_Commune": "BOUMIA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 560,
+    "Nom_Commune": "BOULHILAT",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 561,
+    "Nom_Commune": "LARBAA",
+    "Id_Wilaya": 5
+  },
+  {
+    "Code_Commune": 601,
+    "Nom_Commune": "BEJAIA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 602,
+    "Nom_Commune": "AMIZOUR",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 603,
+    "Nom_Commune": "FERRAOUN",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 604,
+    "Nom_Commune": "TAOURIRT IGHIL",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 605,
+    "Nom_Commune": "CHELATA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 606,
+    "Nom_Commune": "TAMOKRA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 607,
+    "Nom_Commune": "TIMZRIT",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 608,
+    "Nom_Commune": "SOUK EL THENINE",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 609,
+    "Nom_Commune": "M'CISNA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 610,
+    "Nom_Commune": "THINABDHER",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 611,
+    "Nom_Commune": "TICHI",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 612,
+    "Nom_Commune": "SEMAOUN",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 613,
+    "Nom_Commune": "KENDIRA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 614,
+    "Nom_Commune": "TIFRA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 615,
+    "Nom_Commune": "IGHRAM",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 616,
+    "Nom_Commune": "AMALOU",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 617,
+    "Nom_Commune": "IGHIL ALI",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 618,
+    "Nom_Commune": "IFELAIN ILMATHEN",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 619,
+    "Nom_Commune": "TOUDJA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 620,
+    "Nom_Commune": "DARGUINA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 621,
+    "Nom_Commune": "SIDI AYAD",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 622,
+    "Nom_Commune": "AOKAS",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 623,
+    "Nom_Commune": "BENI DJELLIL",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 624,
+    "Nom_Commune": "ADEKAR",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 625,
+    "Nom_Commune": "AKBOU",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 626,
+    "Nom_Commune": "SEDDOUK",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 627,
+    "Nom_Commune": "TAZMALT",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 628,
+    "Nom_Commune": "AIT RIZINE",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 629,
+    "Nom_Commune": "CHEMINI",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 630,
+    "Nom_Commune": "SOUK OUFELLA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 631,
+    "Nom_Commune": "TASKRIOUT",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 632,
+    "Nom_Commune": "TIBANE",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 633,
+    "Nom_Commune": "TALA HAMZA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 634,
+    "Nom_Commune": "BARBACHA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 635,
+    "Nom_Commune": "BENI KSILA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 636,
+    "Nom_Commune": "OUZALLAGUEN",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 637,
+    "Nom_Commune": "BOUHAMZA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 638,
+    "Nom_Commune": "BENI MELIKECHE",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 639,
+    "Nom_Commune": "SIDI AICH",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 640,
+    "Nom_Commune": "EL KSEUR",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 641,
+    "Nom_Commune": "MELBOU",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 642,
+    "Nom_Commune": "AKFADOU",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 643,
+    "Nom_Commune": "LEFLAYE",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 644,
+    "Nom_Commune": "KHERRATA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 645,
+    "Nom_Commune": "DRAA KAID",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 646,
+    "Nom_Commune": "TAMRIDJET",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 647,
+    "Nom_Commune": "AIT SMAIL",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 648,
+    "Nom_Commune": "BOUKHELIFA",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 649,
+    "Nom_Commune": "TIZI N'BERBER",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 650,
+    "Nom_Commune": "BENI MAOUCH",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 651,
+    "Nom_Commune": "OUED GHIR",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 652,
+    "Nom_Commune": "BOUDJELLIL",
+    "Id_Wilaya": 6
+  },
+  {
+    "Code_Commune": 701,
+    "Nom_Commune": "BISKRA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 702,
+    "Nom_Commune": "OUMACHE",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 703,
+    "Nom_Commune": "BRANIS",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 704,
+    "Nom_Commune": "CHETMA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 705,
+    "Nom_Commune": "OULED DJELLAL",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 706,
+    "Nom_Commune": "RAS EL MIAAD",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 707,
+    "Nom_Commune": "BESBES",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 708,
+    "Nom_Commune": "SIDI KHALED",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 709,
+    "Nom_Commune": "DOUCEN",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 710,
+    "Nom_Commune": "ECH-CHAIBA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 711,
+    "Nom_Commune": "SIDI OKBA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 712,
+    "Nom_Commune": "M'CHOUNECHE",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 713,
+    "Nom_Commune": "EL HAOUCH",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 714,
+    "Nom_Commune": "AIN NAGA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 715,
+    "Nom_Commune": "ZERIBET EL OUED",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 716,
+    "Nom_Commune": "EL FEIDH",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 717,
+    "Nom_Commune": "EL KANTARA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 718,
+    "Nom_Commune": "AIN ZAATOUT",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 719,
+    "Nom_Commune": "EL OUTAYA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 720,
+    "Nom_Commune": "DJEMORAH",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 721,
+    "Nom_Commune": "TOLGA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 722,
+    "Nom_Commune": "LIOUA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 723,
+    "Nom_Commune": "LICHANA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 724,
+    "Nom_Commune": "OURLAL",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 725,
+    "Nom_Commune": "M'LILI",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 726,
+    "Nom_Commune": "FOUGHALA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 727,
+    "Nom_Commune": "BORDJ BEN AZZOUZ",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 728,
+    "Nom_Commune": "MEZIRAA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 729,
+    "Nom_Commune": "BOUCHAGROUN",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 730,
+    "Nom_Commune": "MEKHADMA",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 731,
+    "Nom_Commune": "EL GHROUS",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 732,
+    "Nom_Commune": "EL HADJAB",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 733,
+    "Nom_Commune": "KHANGUET SIDINADJI",
+    "Id_Wilaya": 7
+  },
+  {
+    "Code_Commune": 801,
+    "Nom_Commune": "BECHAR",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 802,
+    "Nom_Commune": "ERG FERRADJ",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 803,
+    "Nom_Commune": "OULED KHOUDIR",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 804,
+    "Nom_Commune": "MERIDJA",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 805,
+    "Nom_Commune": "TIMOUDI",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 806,
+    "Nom_Commune": "LAHMAR",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 807,
+    "Nom_Commune": "BENI ABBES",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 808,
+    "Nom_Commune": "BENI IKHLEF",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 809,
+    "Nom_Commune": "MECHRAA HOUARI B",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 810,
+    "Nom_Commune": "KENEDSA",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 811,
+    "Nom_Commune": "IGLI",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 812,
+    "Nom_Commune": "TABALBALA",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 813,
+    "Nom_Commune": "TAGHIT",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 814,
+    "Nom_Commune": "EL OUATA",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 815,
+    "Nom_Commune": "BOUKAIS",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 816,
+    "Nom_Commune": "MOGHEUL",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 817,
+    "Nom_Commune": "ABADLA",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 818,
+    "Nom_Commune": "KERZAZ",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 819,
+    "Nom_Commune": "KSABI",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 820,
+    "Nom_Commune": "TAMTERT",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 821,
+    "Nom_Commune": "BENI OUNIF",
+    "Id_Wilaya": 8
+  },
+  {
+    "Code_Commune": 901,
+    "Nom_Commune": "BLIDA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 902,
+    "Nom_Commune": "CHEBLI",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 903,
+    "Nom_Commune": "BOUINAN",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 904,
+    "Nom_Commune": "OUED EL ALLEUG",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 907,
+    "Nom_Commune": "OULED YAICH",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 908,
+    "Nom_Commune": "CHREA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 910,
+    "Nom_Commune": "EL AFFROUN",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 911,
+    "Nom_Commune": "CHIFFA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 912,
+    "Nom_Commune": "HAMMAM MELOUANE",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 913,
+    "Nom_Commune": "BEN KHLIL",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 914,
+    "Nom_Commune": "SOUMAA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 916,
+    "Nom_Commune": "MOUZAIA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 917,
+    "Nom_Commune": "SOUHANE",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 918,
+    "Nom_Commune": "MEFTAH",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 919,
+    "Nom_Commune": "OULED SELAMA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 920,
+    "Nom_Commune": "BOUFARIK",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 921,
+    "Nom_Commune": "LARBAA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 922,
+    "Nom_Commune": "OUED DJER",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 923,
+    "Nom_Commune": "BENI TAMOU",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 924,
+    "Nom_Commune": "BOUARFA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 925,
+    "Nom_Commune": "BENI MERED",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 926,
+    "Nom_Commune": "BOUGARA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 927,
+    "Nom_Commune": "GUERROUAOU",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 928,
+    "Nom_Commune": "AIN ROMANA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 929,
+    "Nom_Commune": "DJEBABRA",
+    "Id_Wilaya": 9
+  },
+  {
+    "Code_Commune": 1001,
+    "Nom_Commune": "BOUIRA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1002,
+    "Nom_Commune": "EL ASNAM",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1003,
+    "Nom_Commune": "GUERROUMA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1004,
+    "Nom_Commune": "SOUK EL KHEMIS",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1005,
+    "Nom_Commune": "KADIRIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1006,
+    "Nom_Commune": "HANIF",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1007,
+    "Nom_Commune": "DIRAH",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1008,
+    "Nom_Commune": "AIT LAAZIZ",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1009,
+    "Nom_Commune": "TAGHZOUT",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1010,
+    "Nom_Commune": "RAOURAOUA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1011,
+    "Nom_Commune": "MEZDOUR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1012,
+    "Nom_Commune": "HAIZER",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1013,
+    "Nom_Commune": "LAKHDARIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1014,
+    "Nom_Commune": "MAALA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1015,
+    "Nom_Commune": "EL HACHIMIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1016,
+    "Nom_Commune": "AOMAR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1017,
+    "Nom_Commune": "CHORFA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1018,
+    "Nom_Commune": "BORDJ OUKHRISS",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1019,
+    "Nom_Commune": "EL ADJIBA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1020,
+    "Nom_Commune": "EL-HAKIMIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1021,
+    "Nom_Commune": "EL KHEBOUZIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1022,
+    "Nom_Commune": "AHL EL KSAR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1023,
+    "Nom_Commune": "BOUDERBALA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1024,
+    "Nom_Commune": "ZBARBAR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1025,
+    "Nom_Commune": "AIN EL HADJAR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1026,
+    "Nom_Commune": "DJEBAHIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1027,
+    "Nom_Commune": "AGHBALOU",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1028,
+    "Nom_Commune": "TAGUEDIT",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1029,
+    "Nom_Commune": "AIN TURK",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1030,
+    "Nom_Commune": "SAHARIDJ",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1031,
+    "Nom_Commune": "DECHMIA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1032,
+    "Nom_Commune": "RIDANE",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1033,
+    "Nom_Commune": "BECHLOUL",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1034,
+    "Nom_Commune": "BOUKRAM",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1035,
+    "Nom_Commune": "AIN BESSAM",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1036,
+    "Nom_Commune": "BIR GHBALOU",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1037,
+    "Nom_Commune": "M'CHEDALLAH",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1038,
+    "Nom_Commune": "SOUR EL GHOZLANE",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1039,
+    "Nom_Commune": "MAAMORA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1040,
+    "Nom_Commune": "OULED RACHED",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1041,
+    "Nom_Commune": "AIN LALOUI",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1042,
+    "Nom_Commune": "HADJERA ZERGA",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1043,
+    "Nom_Commune": "ATH MANSOUR",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1044,
+    "Nom_Commune": "EL MOKRANI",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1045,
+    "Nom_Commune": "OUED EL BERDI",
+    "Id_Wilaya": 10
+  },
+  {
+    "Code_Commune": 1101,
+    "Nom_Commune": "TAMANGHASSET",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1102,
+    "Nom_Commune": "ABALESSA",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1103,
+    "Nom_Commune": "IN GHAR",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1104,
+    "Nom_Commune": "IN GUEZZAM",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1105,
+    "Nom_Commune": "IDLES",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1106,
+    "Nom_Commune": "TAZOUK",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1107,
+    "Nom_Commune": "TINZAOUATINE",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1108,
+    "Nom_Commune": "IN SALAH",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1109,
+    "Nom_Commune": "IN AMGUEL",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1110,
+    "Nom_Commune": "FOGGARET EZZAOUIA",
+    "Id_Wilaya": 11
+  },
+  {
+    "Code_Commune": 1201,
+    "Nom_Commune": "TEBESSA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1202,
+    "Nom_Commune": "BIR EL ATER",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1203,
+    "Nom_Commune": "CHERIA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1204,
+    "Nom_Commune": "STAH GUENTIS",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1205,
+    "Nom_Commune": "EL AOUINET",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1206,
+    "Nom_Commune": "LAHOUIDJBET",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1207,
+    "Nom_Commune": "SAFSAF EL OUESRA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1208,
+    "Nom_Commune": "HAMMAMET",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1209,
+    "Nom_Commune": "NEGRINE",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1210,
+    "Nom_Commune": "BIR EL MOKADEM",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1211,
+    "Nom_Commune": "EL KOUIF",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1212,
+    "Nom_Commune": "MORSOTT",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1213,
+    "Nom_Commune": "EL OGLA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1214,
+    "Nom_Commune": "BIR DHEHEB",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1215,
+    "Nom_Commune": "EL OGLA EL MALHA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1216,
+    "Nom_Commune": "GORRIGUER",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1217,
+    "Nom_Commune": "BEKKARIA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1218,
+    "Nom_Commune": "BOUKHADRA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1219,
+    "Nom_Commune": "OUENZA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1220,
+    "Nom_Commune": "EL MA EL BIODH",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1221,
+    "Nom_Commune": "OUM ALI",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1222,
+    "Nom_Commune": "THLIDJENE",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1223,
+    "Nom_Commune": "AIN ZERGA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1224,
+    "Nom_Commune": "EL MERIDJ",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1225,
+    "Nom_Commune": "BOULHAF DYR",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1226,
+    "Nom_Commune": "BEDJENE",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1227,
+    "Nom_Commune": "EL MAZERAA",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1228,
+    "Nom_Commune": "FERKANE",
+    "Id_Wilaya": 12
+  },
+  {
+    "Code_Commune": 1301,
+    "Nom_Commune": "TLEMCEN",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1302,
+    "Nom_Commune": "BENI MESTER",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1303,
+    "Nom_Commune": "AIN TALLOUT",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1304,
+    "Nom_Commune": "REMCHI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1305,
+    "Nom_Commune": "EL FEHOUL",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1306,
+    "Nom_Commune": "SABRA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1307,
+    "Nom_Commune": "GHAZAOUET",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1308,
+    "Nom_Commune": "SOUANI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1309,
+    "Nom_Commune": "DJEBALA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1310,
+    "Nom_Commune": "EL GOR",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1311,
+    "Nom_Commune": "OUED CHOULY",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1312,
+    "Nom_Commune": "AIN FEZZA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1313,
+    "Nom_Commune": "OULED MIMOUN",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1314,
+    "Nom_Commune": "AMIEUR",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1315,
+    "Nom_Commune": "AIN YOUCEF",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1316,
+    "Nom_Commune": "ZENATA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1317,
+    "Nom_Commune": "BENI SNOUS",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1318,
+    "Nom_Commune": "BAB EL ASSA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1319,
+    "Nom_Commune": "DAR YAGHMOURACENE",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1320,
+    "Nom_Commune": "FELLAOUCENE",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1321,
+    "Nom_Commune": "AZAILS",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1322,
+    "Nom_Commune": "SEBBAA CHIOUKH",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1323,
+    "Nom_Commune": "TERNI BENI HEDIEL",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1324,
+    "Nom_Commune": "BENSEKRANE",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1325,
+    "Nom_Commune": "AIN NEHALA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1326,
+    "Nom_Commune": "HENNAYA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1327,
+    "Nom_Commune": "MAGHNIA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1328,
+    "Nom_Commune": "HAMMAM BOUGHRARA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1329,
+    "Nom_Commune": "SOUAHLIA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1330,
+    "Nom_Commune": "MSIRDA FOUAGA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1331,
+    "Nom_Commune": "AIN FETAH",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1332,
+    "Nom_Commune": "EL ARICHA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1333,
+    "Nom_Commune": "SOUK THLATA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1334,
+    "Nom_Commune": "SIDI ABDELLI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1335,
+    "Nom_Commune": "SEBDOU",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1336,
+    "Nom_Commune": "BENI OUARSOUS",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1337,
+    "Nom_Commune": "SIDI MEDJAHED",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1338,
+    "Nom_Commune": "BENI BOUSSAID",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1339,
+    "Nom_Commune": "MARSA BEN M'HIDI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1340,
+    "Nom_Commune": "NEDROMA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1341,
+    "Nom_Commune": "SIDI DJILLALI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1342,
+    "Nom_Commune": "BENI BAHDEL",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1343,
+    "Nom_Commune": "EL BOUIHI",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1344,
+    "Nom_Commune": "HONAINE",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1345,
+    "Nom_Commune": "TIANET",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1346,
+    "Nom_Commune": "OULED RIYAH",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1347,
+    "Nom_Commune": "BOUHLOU",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1348,
+    "Nom_Commune": "BENI KHELLAD",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1349,
+    "Nom_Commune": "AIN GHORABA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1350,
+    "Nom_Commune": "CHETOUANE",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1351,
+    "Nom_Commune": "MANSOURAH",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1352,
+    "Nom_Commune": "BENI SEMIEL",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1353,
+    "Nom_Commune": "AIN KEBIRA",
+    "Id_Wilaya": 13
+  },
+  {
+    "Code_Commune": 1401,
+    "Nom_Commune": "TIARET",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1402,
+    "Nom_Commune": "MEDROUSSA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1403,
+    "Nom_Commune": "AIN BOUCHEKIF",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1404,
+    "Nom_Commune": "SIDI ALI MELLAL",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1405,
+    "Nom_Commune": "AIN ZARIT",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1406,
+    "Nom_Commune": "AIN DEHEB",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1407,
+    "Nom_Commune": "SIDI BAKHTI",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1408,
+    "Nom_Commune": "MEDRISSA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1409,
+    "Nom_Commune": "ZMALET E.ABDELKADE",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1410,
+    "Nom_Commune": "MADNA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1411,
+    "Nom_Commune": "SEBT",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1412,
+    "Nom_Commune": "MELLAKOU",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1413,
+    "Nom_Commune": "DAHMOUNI",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1414,
+    "Nom_Commune": "RAHOUIA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1415,
+    "Nom_Commune": "MAHDIA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1416,
+    "Nom_Commune": "SOUGUEUR",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1417,
+    "Nom_Commune": "SIDI ABDELGHANI",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1418,
+    "Nom_Commune": "AIN EL HADID",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1419,
+    "Nom_Commune": "ROSFA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1420,
+    "Nom_Commune": "NAIMA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1421,
+    "Nom_Commune": "MEGHILA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1422,
+    "Nom_Commune": "GUERTOUFA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1423,
+    "Nom_Commune": "SIDI HOSNI",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1424,
+    "Nom_Commune": "DJILLALI BEN AMAR",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1425,
+    "Nom_Commune": "SEBAINE",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1426,
+    "Nom_Commune": "TOUSNINA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1427,
+    "Nom_Commune": "FRENDA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1428,
+    "Nom_Commune": "AIN KERMES",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1429,
+    "Nom_Commune": "KSAR CHELLALA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1430,
+    "Nom_Commune": "RECHAIGA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1431,
+    "Nom_Commune": "NADORAH",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1432,
+    "Nom_Commune": "TAGDEMT",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1433,
+    "Nom_Commune": "OUED LILLI",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1434,
+    "Nom_Commune": "MECHRAA SAFA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1435,
+    "Nom_Commune": "HAMADIA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1436,
+    "Nom_Commune": "CHEHAIMA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1437,
+    "Nom_Commune": "TAKHEMARET",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1438,
+    "Nom_Commune": "SIDI ABDERRAHMANE",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1439,
+    "Nom_Commune": "SERGHINE",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1440,
+    "Nom_Commune": "BOUGARA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1441,
+    "Nom_Commune": "FAIDJA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1442,
+    "Nom_Commune": "TIDDA",
+    "Id_Wilaya": 14
+  },
+  {
+    "Code_Commune": 1501,
+    "Nom_Commune": "TIZI OUZOU",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1502,
+    "Nom_Commune": "AIN EL HAMMAM",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1503,
+    "Nom_Commune": "AKBIL",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1504,
+    "Nom_Commune": "FREHA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1505,
+    "Nom_Commune": "SOUAMAA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1506,
+    "Nom_Commune": "MECHTRASS",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1507,
+    "Nom_Commune": "IRDJEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1508,
+    "Nom_Commune": "TIMIZART",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1509,
+    "Nom_Commune": "MAKOUDA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1510,
+    "Nom_Commune": "DRAA EL MIZAN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1511,
+    "Nom_Commune": "TIZI GHENIF",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1512,
+    "Nom_Commune": "BOUNOUH",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1513,
+    "Nom_Commune": "AIT CHAFFAA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1514,
+    "Nom_Commune": "FRIKAT",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1515,
+    "Nom_Commune": "BENI AISSI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1516,
+    "Nom_Commune": "BENI ZMENZER",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1517,
+    "Nom_Commune": "IFERHOUNENE",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1518,
+    "Nom_Commune": "AZAZGA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1519,
+    "Nom_Commune": "ILOULA OUMALOU",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1520,
+    "Nom_Commune": "YAKOUREN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1521,
+    "Nom_Commune": "LARBA NAIT IRATHEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1522,
+    "Nom_Commune": "TIZI RACHED",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1523,
+    "Nom_Commune": "ZEKRI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1524,
+    "Nom_Commune": "OUAGUENOUN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1525,
+    "Nom_Commune": "AIN ZAOUIA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1526,
+    "Nom_Commune": "M'KIRA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1527,
+    "Nom_Commune": "AIT YAHIA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1528,
+    "Nom_Commune": "AIT MAHMOUD",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1529,
+    "Nom_Commune": "MAATKA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1530,
+    "Nom_Commune": "AIT BOUMEHDI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1531,
+    "Nom_Commune": "ABI YOUCEF",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1532,
+    "Nom_Commune": "BENI DOUALA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1533,
+    "Nom_Commune": "ILLILTEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1534,
+    "Nom_Commune": "BOUZGUEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1535,
+    "Nom_Commune": "AIT AGGOUACHA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1536,
+    "Nom_Commune": "OUADHIA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1537,
+    "Nom_Commune": "AZZEFOUN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1538,
+    "Nom_Commune": "TIGZIRT",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1539,
+    "Nom_Commune": "AIT AISSA MIMOUN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1540,
+    "Nom_Commune": "BOGHNI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1541,
+    "Nom_Commune": "IFIGHA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1542,
+    "Nom_Commune": "AIT OUMALOU",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1543,
+    "Nom_Commune": "TIRMITINE",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1544,
+    "Nom_Commune": "AKERROU",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1545,
+    "Nom_Commune": "YATAFEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1546,
+    "Nom_Commune": "BENI ZIKI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1547,
+    "Nom_Commune": "DRAA BEN KHEDDA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1548,
+    "Nom_Commune": "OUACIF",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1549,
+    "Nom_Commune": "IDJEUR",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1550,
+    "Nom_Commune": "MEKLA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1551,
+    "Nom_Commune": "TIZI N'THLATA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1552,
+    "Nom_Commune": "BENI YENNI",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1553,
+    "Nom_Commune": "AGHRIB",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1554,
+    "Nom_Commune": "IFLISSEN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1555,
+    "Nom_Commune": "BOUDJIMA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1556,
+    "Nom_Commune": "AIT YAHIA MOUSSA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1557,
+    "Nom_Commune": "SOUK EL THENINE",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1558,
+    "Nom_Commune": "AIT KHELIL",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1559,
+    "Nom_Commune": "SIDI NAAMANE",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1560,
+    "Nom_Commune": "IBOUDRAREN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1561,
+    "Nom_Commune": "AGHNI GOUGHRAN",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1562,
+    "Nom_Commune": "MIZRANA",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1563,
+    "Nom_Commune": "IMSOUHAL",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1564,
+    "Nom_Commune": "TADMAIT",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1565,
+    "Nom_Commune": "AIT BOUADOU",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1566,
+    "Nom_Commune": "ASSI YOUCEF",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1567,
+    "Nom_Commune": "AIT TOUDERT",
+    "Id_Wilaya": 15
+  },
+  {
+    "Code_Commune": 1601,
+    "Nom_Commune": "ALGER CENTRE",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1602,
+    "Nom_Commune": "SIDI M'HAMED",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1603,
+    "Nom_Commune": "EL MADANIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1604,
+    "Nom_Commune": "MOHAMED BELOUIZDAD",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1605,
+    "Nom_Commune": "BAB EL OUED",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1606,
+    "Nom_Commune": "BOLOGHINE IBN ZIRI",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1607,
+    "Nom_Commune": "CASBAH",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1608,
+    "Nom_Commune": "OUED KORICHE",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1609,
+    "Nom_Commune": "BIR MOURAD RAIS",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1610,
+    "Nom_Commune": "EL BIAR",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1611,
+    "Nom_Commune": "BOUZAREAH",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1612,
+    "Nom_Commune": "BIRKHADEM",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1613,
+    "Nom_Commune": "EL HARRACH",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1614,
+    "Nom_Commune": "BARAKI",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1615,
+    "Nom_Commune": "OUED SMAR",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1616,
+    "Nom_Commune": "BOUROUBA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1617,
+    "Nom_Commune": "HUSSEIN DEY",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1618,
+    "Nom_Commune": "KOUBA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1619,
+    "Nom_Commune": "BACHEDJERAH",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1620,
+    "Nom_Commune": "DAR EL BEIDA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1621,
+    "Nom_Commune": "BAB EZZOUAR",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1622,
+    "Nom_Commune": "BEN AKNOUN",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1623,
+    "Nom_Commune": "DELY IBRAHIM",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1624,
+    "Nom_Commune": "BAINS ROMAINS",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1625,
+    "Nom_Commune": "RAIS HAMIDOU",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1626,
+    "Nom_Commune": "DJASR KASENTINA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1627,
+    "Nom_Commune": "EL MOURADIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1628,
+    "Nom_Commune": "HYDRA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1629,
+    "Nom_Commune": "MOHAMMADIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1630,
+    "Nom_Commune": "BORDJ EL KIFFAN",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1631,
+    "Nom_Commune": "EL MAGHARIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1632,
+    "Nom_Commune": "BENI MESSOUS",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1633,
+    "Nom_Commune": "LES EUCALYPTUS",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1634,
+    "Nom_Commune": "BIRTOUTA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1635,
+    "Nom_Commune": "TASSALA EL MERDJA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1636,
+    "Nom_Commune": "OULED CHEBEL",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1637,
+    "Nom_Commune": "SIDI MOUSSA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1638,
+    "Nom_Commune": "AIN TAYA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1639,
+    "Nom_Commune": "BORDJ EL BAHRI",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1640,
+    "Nom_Commune": "MARSA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1641,
+    "Nom_Commune": "HARAOUA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1642,
+    "Nom_Commune": "ROUIBA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1643,
+    "Nom_Commune": "REGHAIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1644,
+    "Nom_Commune": "AIN BENIAN",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1645,
+    "Nom_Commune": "STAOUELI",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1646,
+    "Nom_Commune": "ZERALDA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1647,
+    "Nom_Commune": "MAHELMA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1648,
+    "Nom_Commune": "RAHMANIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1649,
+    "Nom_Commune": "SOUIDANIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1650,
+    "Nom_Commune": "CHERAGA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1651,
+    "Nom_Commune": "OULED FAYET",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1652,
+    "Nom_Commune": "EL ACHOUR",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1653,
+    "Nom_Commune": "DRARIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1654,
+    "Nom_Commune": "DOUERA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1655,
+    "Nom_Commune": "BABA HASSEN",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1656,
+    "Nom_Commune": "KHRACIA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1657,
+    "Nom_Commune": "SAOULA",
+    "Id_Wilaya": 16
+  },
+  {
+    "Code_Commune": 1701,
+    "Nom_Commune": "DJELFA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1702,
+    "Nom_Commune": "MOUADJEBAR",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1703,
+    "Nom_Commune": "EL GUEDID",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1704,
+    "Nom_Commune": "HASSI BAHBAH",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1705,
+    "Nom_Commune": "AIN MAABED",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1706,
+    "Nom_Commune": "SED RAHAL",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1707,
+    "Nom_Commune": "FAIDH EL BOTMA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1708,
+    "Nom_Commune": "BIRINE",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1709,
+    "Nom_Commune": "BOUIRA LAHDAB",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1710,
+    "Nom_Commune": "ZACCAR",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1711,
+    "Nom_Commune": "EL KHEMIS",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1712,
+    "Nom_Commune": "SIDI BAIZID",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1713,
+    "Nom_Commune": "M'LILIHA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1714,
+    "Nom_Commune": "EL IDRISSIA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1715,
+    "Nom_Commune": "DOUIS",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1716,
+    "Nom_Commune": "HASSI EL EUCH",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1717,
+    "Nom_Commune": "MESSAAD",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1718,
+    "Nom_Commune": "GUETTARA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1719,
+    "Nom_Commune": "SIDI LADJEL",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1720,
+    "Nom_Commune": "HAD SAHARY",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1721,
+    "Nom_Commune": "GUERNINI",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1722,
+    "Nom_Commune": "SELMANA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1723,
+    "Nom_Commune": "AIN CHOUHADA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1724,
+    "Nom_Commune": "OUM LAADHAM",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1725,
+    "Nom_Commune": "DAR CHIOUKH",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1726,
+    "Nom_Commune": "CHAREF",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1727,
+    "Nom_Commune": "BENI YAGOUB",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1728,
+    "Nom_Commune": "ZAAFRANE",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1729,
+    "Nom_Commune": "DELDOUL",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1730,
+    "Nom_Commune": "AIN EL IBEL",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1731,
+    "Nom_Commune": "AIN OUSSERA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1732,
+    "Nom_Commune": "BENHAR",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1733,
+    "Nom_Commune": "HASSI FEDOUL",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1734,
+    "Nom_Commune": "AMOURAH",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1735,
+    "Nom_Commune": "AIN FEKA",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1736,
+    "Nom_Commune": "TADMIT",
+    "Id_Wilaya": 17
+  },
+  {
+    "Code_Commune": 1801,
+    "Nom_Commune": "JIJEL",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1802,
+    "Nom_Commune": "ERRAGUENE",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1803,
+    "Nom_Commune": "EL AOUANA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1804,
+    "Nom_Commune": "ZIAMMA MANSOURIAH",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1805,
+    "Nom_Commune": "TAHER",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1806,
+    "Nom_Commune": "EMIR ABDELKADER",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1807,
+    "Nom_Commune": "CHEKFA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1808,
+    "Nom_Commune": "CHAHNA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1809,
+    "Nom_Commune": "EL MILIA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1810,
+    "Nom_Commune": "SIDI MAAROUF",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1811,
+    "Nom_Commune": "SETTARA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1812,
+    "Nom_Commune": "EL ANCER",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1813,
+    "Nom_Commune": "SIDI ABDELAZIZ",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1814,
+    "Nom_Commune": "KAOUS",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1815,
+    "Nom_Commune": "GHEBALA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1816,
+    "Nom_Commune": "BOURAOUI BELHADEF",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1817,
+    "Nom_Commune": "DJIMLA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1818,
+    "Nom_Commune": "SELMA BENZIADA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1819,
+    "Nom_Commune": "BOUSSIF O.AKSEUR",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1820,
+    "Nom_Commune": "EL KENNAR NOUCHFI",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1821,
+    "Nom_Commune": "OULED YAHIA KHADR.",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1822,
+    "Nom_Commune": "BOUDRIA BNI YADJIS",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1823,
+    "Nom_Commune": "KHIRI OUED ADJOUL",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1824,
+    "Nom_Commune": "TEXENA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1825,
+    "Nom_Commune": "DJEMAA BENI HABIBI",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1826,
+    "Nom_Commune": "BORDJ T'HAR",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1827,
+    "Nom_Commune": "OULED RABAH",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1828,
+    "Nom_Commune": "OUADJANA",
+    "Id_Wilaya": 18
+  },
+  {
+    "Code_Commune": 1901,
+    "Nom_Commune": "SETIF",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1902,
+    "Nom_Commune": "AIN EL KEBIRA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1903,
+    "Nom_Commune": "BENI AZIZ",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1904,
+    "Nom_Commune": "OULED SIDI AHMED",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1905,
+    "Nom_Commune": "BOUTALEB",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1906,
+    "Nom_Commune": "AIN ROUA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1907,
+    "Nom_Commune": "DRAA KEBILA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1908,
+    "Nom_Commune": "BIR EL ARCH",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1909,
+    "Nom_Commune": "BENI CHEBANA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1910,
+    "Nom_Commune": "OULED TEBBEN",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1911,
+    "Nom_Commune": "HAMMA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1912,
+    "Nom_Commune": "MAAOUIA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1913,
+    "Nom_Commune": "AIN LEGRAJ",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1914,
+    "Nom_Commune": "AIN ABESSA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1915,
+    "Nom_Commune": "DEHAMCHA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1916,
+    "Nom_Commune": "BABOR",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1917,
+    "Nom_Commune": "GUIDJEL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1918,
+    "Nom_Commune": "AIN LAHDJAR",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1919,
+    "Nom_Commune": "BOUSSELAM",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1920,
+    "Nom_Commune": "EL EULMA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1921,
+    "Nom_Commune": "DJEMILA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1922,
+    "Nom_Commune": "BENI OUARTILANE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1923,
+    "Nom_Commune": "RASFA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1924,
+    "Nom_Commune": "OULED ADDOUANE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1925,
+    "Nom_Commune": "BELAA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1926,
+    "Nom_Commune": "AIN ARNAT",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1927,
+    "Nom_Commune": "AMOUCHA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1928,
+    "Nom_Commune": "AIN OULMANE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1929,
+    "Nom_Commune": "BEIDHA BORDJ",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1930,
+    "Nom_Commune": "BOUANDAS",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1931,
+    "Nom_Commune": "BAZER SAKHRA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1932,
+    "Nom_Commune": "HAMMAM ESSOKHNA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1933,
+    "Nom_Commune": "MEZLOUG",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1934,
+    "Nom_Commune": "BIR HADDADA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1935,
+    "Nom_Commune": "SERDJ EL GHOUL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1936,
+    "Nom_Commune": "HARBIL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1937,
+    "Nom_Commune": "EL OURICIA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1938,
+    "Nom_Commune": "TIZI N'BECHAR",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1939,
+    "Nom_Commune": "SALAH BEY",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1940,
+    "Nom_Commune": "AIN AZAL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1941,
+    "Nom_Commune": "GUENZET",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1942,
+    "Nom_Commune": "TALAIFACENE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1943,
+    "Nom_Commune": "BOUGAA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1944,
+    "Nom_Commune": "BENI FOUDA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1945,
+    "Nom_Commune": "TACHOUDA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1946,
+    "Nom_Commune": "BENI MOUHLI",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1947,
+    "Nom_Commune": "OULED SABER",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1948,
+    "Nom_Commune": "GUELLAL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1949,
+    "Nom_Commune": "AIN SEBT",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1950,
+    "Nom_Commune": "HAMMAM GUERGOUR",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1951,
+    "Nom_Commune": "AIT NAOUAL MEZADA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1952,
+    "Nom_Commune": "KSAR EL ABTAL",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1953,
+    "Nom_Commune": "BENI OUSSINE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1954,
+    "Nom_Commune": "AIT TIZI",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1955,
+    "Nom_Commune": "MAOUKLANE",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1956,
+    "Nom_Commune": "GUELTA ZERKA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1957,
+    "Nom_Commune": "OUED EL BARAD",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1958,
+    "Nom_Commune": "TAYA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1959,
+    "Nom_Commune": "EL OULDJA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 1960,
+    "Nom_Commune": "TELLA",
+    "Id_Wilaya": 19
+  },
+  {
+    "Code_Commune": 2001,
+    "Nom_Commune": "SAIDA",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2002,
+    "Nom_Commune": "DOUI THABET",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2003,
+    "Nom_Commune": "AIN EL HADJAR",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2004,
+    "Nom_Commune": "OULED KHALED",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2005,
+    "Nom_Commune": "MOULAY LARBI",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2006,
+    "Nom_Commune": "YOUB",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2007,
+    "Nom_Commune": "HOUNET",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2008,
+    "Nom_Commune": "SIDI AMAR",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2009,
+    "Nom_Commune": "SIDI BOUBEKEUR",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2010,
+    "Nom_Commune": "EL HASSASNA",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2011,
+    "Nom_Commune": "MAAMORA",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2012,
+    "Nom_Commune": "SIDI AHMED",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2013,
+    "Nom_Commune": "AIN SEKHOUNA",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2014,
+    "Nom_Commune": "OULED BRAHIM",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2015,
+    "Nom_Commune": "TIRCINE",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2016,
+    "Nom_Commune": "AIN SOLTANE",
+    "Id_Wilaya": 20
+  },
+  {
+    "Code_Commune": 2101,
+    "Nom_Commune": "SKIKDA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2102,
+    "Nom_Commune": "AIN ZOUIT",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2103,
+    "Nom_Commune": "EL HADAIK",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2104,
+    "Nom_Commune": "AZZABA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2105,
+    "Nom_Commune": "DJENDEL S. MOHAMED",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2106,
+    "Nom_Commune": "AIN CHERCHAR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2107,
+    "Nom_Commune": "BEKKOUCHE LAKHDAR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2108,
+    "Nom_Commune": "BENAZOUZ",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2109,
+    "Nom_Commune": "ES-SEBT",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2110,
+    "Nom_Commune": "COLLO",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2111,
+    "Nom_Commune": "BENI ZID",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2112,
+    "Nom_Commune": "KERKERA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2113,
+    "Nom_Commune": "OULED ATTIA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2114,
+    "Nom_Commune": "OUED ZEHOUR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2115,
+    "Nom_Commune": "ZITOUNA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2116,
+    "Nom_Commune": "EL HARROUCH",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2117,
+    "Nom_Commune": "ZERDAZAS",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2118,
+    "Nom_Commune": "OULED HEBABA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2119,
+    "Nom_Commune": "SIDI MEZGHICHE",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2120,
+    "Nom_Commune": "EMDJEZ EDCHICH",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2121,
+    "Nom_Commune": "BENI OULBANE",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2122,
+    "Nom_Commune": "AIN BOUZIANE",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2123,
+    "Nom_Commune": "RAMDANE DJAMEL",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2124,
+    "Nom_Commune": "BENI BACHIR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2125,
+    "Nom_Commune": "SALAH BOUCHAOUR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2126,
+    "Nom_Commune": "TAMALOUS",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2127,
+    "Nom_Commune": "AIN KECHRA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2128,
+    "Nom_Commune": "OUM TOUB",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2129,
+    "Nom_Commune": "BEIN EL OUIDEN",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2130,
+    "Nom_Commune": "FIL FILA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2131,
+    "Nom_Commune": "CHERAIA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2132,
+    "Nom_Commune": "KANOUA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2133,
+    "Nom_Commune": "EL GHEDIR",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2134,
+    "Nom_Commune": "BOUCHTATA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2135,
+    "Nom_Commune": "OULDJA BOULBALOUT",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2136,
+    "Nom_Commune": "KHENEG MAYOUM",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2137,
+    "Nom_Commune": "HAMADI KROUMA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2138,
+    "Nom_Commune": "EL MARSA",
+    "Id_Wilaya": 21
+  },
+  {
+    "Code_Commune": 2201,
+    "Nom_Commune": "SIDI BEL ABBES",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2202,
+    "Nom_Commune": "TESSALA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2203,
+    "Nom_Commune": "SIDI BRAHIM",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2204,
+    "Nom_Commune": "MOSTEFA BEN BRAHIM",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2205,
+    "Nom_Commune": "TELAGH",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2206,
+    "Nom_Commune": "MEZAOUROU",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2207,
+    "Nom_Commune": "BOUKHANAFIS",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2208,
+    "Nom_Commune": "SIDI ALI BOUSSIDI",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2209,
+    "Nom_Commune": "BADREDINE EL MOKR.",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2210,
+    "Nom_Commune": "MARHOUM",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2211,
+    "Nom_Commune": "TAFISSOUR",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2212,
+    "Nom_Commune": "AMARNAS",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2213,
+    "Nom_Commune": "TILMOUNI",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2214,
+    "Nom_Commune": "SIDI LAHCENE",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2215,
+    "Nom_Commune": "AIN THRID",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2216,
+    "Nom_Commune": "MAKEDRA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2217,
+    "Nom_Commune": "TENIRA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2218,
+    "Nom_Commune": "MOULAY SLISSEN",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2219,
+    "Nom_Commune": "EL HACAIBA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2220,
+    "Nom_Commune": "HASSI ZEHANA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2221,
+    "Nom_Commune": "TABIA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2222,
+    "Nom_Commune": "MERINE",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2223,
+    "Nom_Commune": "RAS EL MA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2224,
+    "Nom_Commune": "AIN TINDAMINE",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2225,
+    "Nom_Commune": "AIN KADA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2226,
+    "Nom_Commune": "M'CID",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2227,
+    "Nom_Commune": "SIDI KHALED",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2228,
+    "Nom_Commune": "AIN EL BERD",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2229,
+    "Nom_Commune": "SFISSEF",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2230,
+    "Nom_Commune": "AIN ADDEN",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2231,
+    "Nom_Commune": "OUED TAOURIRA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2232,
+    "Nom_Commune": "DHAYA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2233,
+    "Nom_Commune": "ZEROUALA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2234,
+    "Nom_Commune": "LAMTAR",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2235,
+    "Nom_Commune": "SIDI CHAIB",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2236,
+    "Nom_Commune": "SIDI DAHOU DEZAIRS",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2237,
+    "Nom_Commune": "OUED SBAA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2238,
+    "Nom_Commune": "BOUDJEBAA EL BORDJ",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2239,
+    "Nom_Commune": "SEHALA THAOURA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2240,
+    "Nom_Commune": "SIDI YACOUB",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2241,
+    "Nom_Commune": "SIDI HAMADOUCHE",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2242,
+    "Nom_Commune": "BELARBI",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2243,
+    "Nom_Commune": "OUED SEFIOUN",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2244,
+    "Nom_Commune": "TEGHALIMET",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2245,
+    "Nom_Commune": "BEN BADIS",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2246,
+    "Nom_Commune": "SIDI ALI BENYOUB",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2247,
+    "Nom_Commune": "CHETOUANE BELAILA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2248,
+    "Nom_Commune": "BIR EL HAMMAM",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2249,
+    "Nom_Commune": "TAOUDMOUT",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2250,
+    "Nom_Commune": "REDJEM DEMOUCHE",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2251,
+    "Nom_Commune": "BENACHIBA CHELIA",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2252,
+    "Nom_Commune": "HASSI DAHOU",
+    "Id_Wilaya": 22
+  },
+  {
+    "Code_Commune": 2301,
+    "Nom_Commune": "ANNABA",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2302,
+    "Nom_Commune": "BERRAHEL",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2303,
+    "Nom_Commune": "EL HADJAR",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2304,
+    "Nom_Commune": "EULMA",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2305,
+    "Nom_Commune": "EL BOUNI",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2306,
+    "Nom_Commune": "OUED EL ANEB",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2307,
+    "Nom_Commune": "CHEURFA",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2308,
+    "Nom_Commune": "SERAIDI",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2309,
+    "Nom_Commune": "AIN BERDA",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2310,
+    "Nom_Commune": "CHETAIBI",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2311,
+    "Nom_Commune": "SIDI AMMAR",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2312,
+    "Nom_Commune": "TREAT",
+    "Id_Wilaya": 23
+  },
+  {
+    "Code_Commune": 2401,
+    "Nom_Commune": "GUELMA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2402,
+    "Nom_Commune": "NECHMAYA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2403,
+    "Nom_Commune": "BOUATI MAHMOUD",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2404,
+    "Nom_Commune": "OUED ZENATI",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2405,
+    "Nom_Commune": "TAMLOUKA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2406,
+    "Nom_Commune": "OUED FRAGHA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2407,
+    "Nom_Commune": "AIN SANDEL",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2408,
+    "Nom_Commune": "RAS EL AGBA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2409,
+    "Nom_Commune": "DAHOUARA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2410,
+    "Nom_Commune": "BELKHIR",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2411,
+    "Nom_Commune": "BEN DJARAH",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2412,
+    "Nom_Commune": "BOU HAMDANE",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2413,
+    "Nom_Commune": "AIN MAKHLOUF",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2414,
+    "Nom_Commune": "AIN BEN BEIDA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2415,
+    "Nom_Commune": "KHEZARA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2416,
+    "Nom_Commune": "BENI MEZLINE",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2417,
+    "Nom_Commune": "BOU HACHANA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2418,
+    "Nom_Commune": "GUELAAT BOU SBAA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2419,
+    "Nom_Commune": "HAMMAM DEBAGH",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2420,
+    "Nom_Commune": "EL FEDJOUDJ",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2421,
+    "Nom_Commune": "BORDJ SABAT",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2422,
+    "Nom_Commune": "HAMMAM N'BAIL",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2423,
+    "Nom_Commune": "AIN LARBI",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2424,
+    "Nom_Commune": "MEDJEZ AMAR",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2425,
+    "Nom_Commune": "BOUCHEGOUF",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2426,
+    "Nom_Commune": "HELIOPOLIS",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2427,
+    "Nom_Commune": "HOUARI BOUMEDIENE",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2428,
+    "Nom_Commune": "ROKNIA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2429,
+    "Nom_Commune": "SALAOUA ANNOUNA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2430,
+    "Nom_Commune": "MEDJEZ SFA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2431,
+    "Nom_Commune": "BOUMAHRA AHMED",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2432,
+    "Nom_Commune": "AIN REGGADA",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2433,
+    "Nom_Commune": "OUED CHEHAM",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2434,
+    "Nom_Commune": "DJEBALLAH KHEMISSI",
+    "Id_Wilaya": 24
+  },
+  {
+    "Code_Commune": 2501,
+    "Nom_Commune": "CONSTANTINE",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2502,
+    "Nom_Commune": "HAMMA BOUZIANE",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2503,
+    "Nom_Commune": "IBN BADIS",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2504,
+    "Nom_Commune": "ZIGHOUD YOUCEF",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2505,
+    "Nom_Commune": "DIDOUCHE MOURAD",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2506,
+    "Nom_Commune": "EL KHROUB",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2507,
+    "Nom_Commune": "AIN ABID",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2508,
+    "Nom_Commune": "BENI HAMIDEN",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2509,
+    "Nom_Commune": "OULED RAHMOUNE",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2510,
+    "Nom_Commune": "AIN SMARA",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2511,
+    "Nom_Commune": "MESAOUD BOUDJERIOU",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2512,
+    "Nom_Commune": "IBN ZIAD",
+    "Id_Wilaya": 25
+  },
+  {
+    "Code_Commune": 2601,
+    "Nom_Commune": "MEDEA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2602,
+    "Nom_Commune": "OUZERA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2603,
+    "Nom_Commune": "OULED MAAREF",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2604,
+    "Nom_Commune": "AIN BOUCIF",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2605,
+    "Nom_Commune": "AISSAOUIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2606,
+    "Nom_Commune": "OULED DEIDE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2607,
+    "Nom_Commune": "EL OMARIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2608,
+    "Nom_Commune": "DERRAG",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2609,
+    "Nom_Commune": "EL GUELBELKEBIR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2610,
+    "Nom_Commune": "BOUAICHE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2611,
+    "Nom_Commune": "MEZERENA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2612,
+    "Nom_Commune": "OULED BRAHIM",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2613,
+    "Nom_Commune": "DAMIAT",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2614,
+    "Nom_Commune": "SIDI ZIANE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2615,
+    "Nom_Commune": "TAMESGUIDA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2616,
+    "Nom_Commune": "EL HAMDANIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2617,
+    "Nom_Commune": "KEF LAKHDAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2618,
+    "Nom_Commune": "CHELALET EL A.",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2619,
+    "Nom_Commune": "BOUSKENE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2620,
+    "Nom_Commune": "REBAIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2621,
+    "Nom_Commune": "BOUCHRAHIL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2622,
+    "Nom_Commune": "OULED HELLAL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2623,
+    "Nom_Commune": "TAFRAOUT",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2624,
+    "Nom_Commune": "BAATA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2625,
+    "Nom_Commune": "BOGHAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2626,
+    "Nom_Commune": "SIDI NAAMANE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2627,
+    "Nom_Commune": "OULED BOUACHRA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2628,
+    "Nom_Commune": "SIDI ZAHAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2629,
+    "Nom_Commune": "OUED HARBIL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2630,
+    "Nom_Commune": "BENCHICAO",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2631,
+    "Nom_Commune": "SIDI DAMED",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2632,
+    "Nom_Commune": "AZIZ",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2633,
+    "Nom_Commune": "SOUAGUI",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2634,
+    "Nom_Commune": "ZOUBIRIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2635,
+    "Nom_Commune": "KSAR EL BOUKHARI",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2636,
+    "Nom_Commune": "EL AZIZIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2637,
+    "Nom_Commune": "DJOUAB",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2638,
+    "Nom_Commune": "CHAHBOUNIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2639,
+    "Nom_Commune": "MEGHRAOUA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2640,
+    "Nom_Commune": "CHENIGUEL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2641,
+    "Nom_Commune": "AIN OU KSIR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2642,
+    "Nom_Commune": "OUM EL DJALIL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2643,
+    "Nom_Commune": "OUAMRI",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2644,
+    "Nom_Commune": "SI MAHDJOUB",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2645,
+    "Nom_Commune": "TLATET EDDOAIR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2646,
+    "Nom_Commune": "BENI SLIMANE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2647,
+    "Nom_Commune": "BERROUAGHIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2648,
+    "Nom_Commune": "SEGHOUANE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2649,
+    "Nom_Commune": "MEFTAHA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2650,
+    "Nom_Commune": "MIHOUB",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2651,
+    "Nom_Commune": "BOUGHEZOUL",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2652,
+    "Nom_Commune": "TABLAT",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2653,
+    "Nom_Commune": "DEUX BASSINS",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2654,
+    "Nom_Commune": "DRAA ESSAMAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2655,
+    "Nom_Commune": "SIDI ERRABIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2656,
+    "Nom_Commune": "BIR BEN LAABED",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2657,
+    "Nom_Commune": "EL OUINET",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2658,
+    "Nom_Commune": "OULED ANTAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2659,
+    "Nom_Commune": "BOUAICHOUNE",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2660,
+    "Nom_Commune": "HANNACHA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2661,
+    "Nom_Commune": "SEDRAIA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2662,
+    "Nom_Commune": "MEDJEBAR",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2663,
+    "Nom_Commune": "KHAMS DJOUAMAA",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2664,
+    "Nom_Commune": "SANEG",
+    "Id_Wilaya": 26
+  },
+  {
+    "Code_Commune": 2701,
+    "Nom_Commune": "MOSTAGANEM",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2702,
+    "Nom_Commune": "SAYADA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2703,
+    "Nom_Commune": "FORNAKA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2704,
+    "Nom_Commune": "STIDIA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2705,
+    "Nom_Commune": "AIN NOUISSY",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2706,
+    "Nom_Commune": "HASSI MAAMECHE",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2707,
+    "Nom_Commune": "AIN TADLES",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2708,
+    "Nom_Commune": "SOUR",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2709,
+    "Nom_Commune": "OUED EL KHEIR",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2710,
+    "Nom_Commune": "SIDI BELLATER",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2711,
+    "Nom_Commune": "KHEIREDINE",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2712,
+    "Nom_Commune": "SIDI ALI",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2713,
+    "Nom_Commune": "ABDELMALEK RAMDANE",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2714,
+    "Nom_Commune": "HADJADJ",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2715,
+    "Nom_Commune": "NEKMARIA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2716,
+    "Nom_Commune": "SIDI LAKHDAR",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2717,
+    "Nom_Commune": "ACHAACHA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2718,
+    "Nom_Commune": "KHADRA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2719,
+    "Nom_Commune": "BOUGUIRAT",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2720,
+    "Nom_Commune": "SIRAT",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2721,
+    "Nom_Commune": "AIN SIDI CHERIF",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2722,
+    "Nom_Commune": "MESRA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2723,
+    "Nom_Commune": "MANSOURAH",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2724,
+    "Nom_Commune": "SOUAFLIA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2725,
+    "Nom_Commune": "OULED BOUGHALEM",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2726,
+    "Nom_Commune": "OULED MAALLAH",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2727,
+    "Nom_Commune": "MEZGHRANE",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2728,
+    "Nom_Commune": "AIN BOUDINAR",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2729,
+    "Nom_Commune": "TAZGAIT",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2730,
+    "Nom_Commune": "SAFSAF",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2731,
+    "Nom_Commune": "TOUAHRIA",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2732,
+    "Nom_Commune": "EL HASSIANE",
+    "Id_Wilaya": 27
+  },
+  {
+    "Code_Commune": 2801,
+    "Nom_Commune": "M'SILA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2802,
+    "Nom_Commune": "MAADID",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2803,
+    "Nom_Commune": "HAMMAM DHALAA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2804,
+    "Nom_Commune": "OULED DERRADJ",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2805,
+    "Nom_Commune": "TARMOUNT",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2806,
+    "Nom_Commune": "M'TARFA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2807,
+    "Nom_Commune": "KHOUBANA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2808,
+    "Nom_Commune": "M'CIF",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2809,
+    "Nom_Commune": "CHELLAL",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2810,
+    "Nom_Commune": "OULED MADHI",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2811,
+    "Nom_Commune": "MAGRA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2812,
+    "Nom_Commune": "BERHOUM",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2813,
+    "Nom_Commune": "AIN KHADRA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2814,
+    "Nom_Commune": "OULED ADDI GUEBALA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2815,
+    "Nom_Commune": "BELAIBA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2816,
+    "Nom_Commune": "SIDI AISSA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2817,
+    "Nom_Commune": "AIN EL HADJEL",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2818,
+    "Nom_Commune": "SIDI HADJERES",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2819,
+    "Nom_Commune": "OUANOUGHA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2820,
+    "Nom_Commune": "BOU SAADA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2821,
+    "Nom_Commune": "OULED SIDI BRAHIM",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2822,
+    "Nom_Commune": "SIDI AMEUR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2823,
+    "Nom_Commune": "TAMSA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2824,
+    "Nom_Commune": "BEN SROUR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2825,
+    "Nom_Commune": "OULED SLIMANE",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2826,
+    "Nom_Commune": "EL HOUAMED",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2827,
+    "Nom_Commune": "EL HAMEL",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2828,
+    "Nom_Commune": "OULED MANSOUR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2829,
+    "Nom_Commune": "MAARIF",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2830,
+    "Nom_Commune": "DEHAHNA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2831,
+    "Nom_Commune": "BOUTI SAYAH",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2832,
+    "Nom_Commune": "KHETTOUTI SED-DJIR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2833,
+    "Nom_Commune": "ZARZOUR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2834,
+    "Nom_Commune": "OUED CHAIR",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2835,
+    "Nom_Commune": "BENZOUH",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2836,
+    "Nom_Commune": "BIR FODA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2837,
+    "Nom_Commune": "AIN FARES",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2838,
+    "Nom_Commune": "SIDI M'HAMED",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2839,
+    "Nom_Commune": "OULED ATIA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2840,
+    "Nom_Commune": "SOUAMAA",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2841,
+    "Nom_Commune": "AIN EL MELH",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2842,
+    "Nom_Commune": "MEDJEDEL",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2843,
+    "Nom_Commune": "SLIM",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2844,
+    "Nom_Commune": "AIN ERRICH",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2845,
+    "Nom_Commune": "BENI ILMANE",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2846,
+    "Nom_Commune": "OULTENE",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2847,
+    "Nom_Commune": "DJEBEL MESSAAD",
+    "Id_Wilaya": 28
+  },
+  {
+    "Code_Commune": 2901,
+    "Nom_Commune": "MASCARA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2902,
+    "Nom_Commune": "BOU HANIFIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2903,
+    "Nom_Commune": "TIZI",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2904,
+    "Nom_Commune": "HACINE",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2905,
+    "Nom_Commune": "MAOUSSA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2906,
+    "Nom_Commune": "TEGHENNIF",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2907,
+    "Nom_Commune": "EL HACHEM",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2908,
+    "Nom_Commune": "SIDI KADA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2909,
+    "Nom_Commune": "ZELMATA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2910,
+    "Nom_Commune": "OUED EL ABTAL",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2911,
+    "Nom_Commune": "AIN FERAH",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2912,
+    "Nom_Commune": "GHRISS",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2913,
+    "Nom_Commune": "FROHA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2914,
+    "Nom_Commune": "MATEMORE",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2915,
+    "Nom_Commune": "MAKDHA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2916,
+    "Nom_Commune": "SIDI BOUSSAID",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2917,
+    "Nom_Commune": "EL BORDJ",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2918,
+    "Nom_Commune": "AIN FEKAN",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2919,
+    "Nom_Commune": "BENIAN",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2920,
+    "Nom_Commune": "KHALOUIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2921,
+    "Nom_Commune": "EL MENAOUER",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2922,
+    "Nom_Commune": "OUED TARIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2923,
+    "Nom_Commune": "AOUF",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2924,
+    "Nom_Commune": "AIN FARES",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2925,
+    "Nom_Commune": "AIN FRASS",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2926,
+    "Nom_Commune": "SIG",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2927,
+    "Nom_Commune": "OGGAZ",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2928,
+    "Nom_Commune": "ALAIMIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2929,
+    "Nom_Commune": "EL GAADA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2930,
+    "Nom_Commune": "ZAHANA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2931,
+    "Nom_Commune": "MOHAMMADIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2932,
+    "Nom_Commune": "SIDI ABDELMOUMENE",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2933,
+    "Nom_Commune": "FERRAGUIG",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2934,
+    "Nom_Commune": "EL GHOMRI",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2935,
+    "Nom_Commune": "SEDJERARA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2936,
+    "Nom_Commune": "MOCTADOUZ",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2937,
+    "Nom_Commune": "BOU HENNI",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2938,
+    "Nom_Commune": "GUETTENA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2939,
+    "Nom_Commune": "EL MAMOUNIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2940,
+    "Nom_Commune": "EL KEURT",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2941,
+    "Nom_Commune": "GHARROUS",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2942,
+    "Nom_Commune": "GHERDJOUM",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2943,
+    "Nom_Commune": "CHORFA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2944,
+    "Nom_Commune": "RAS AIN AMIROUCHE",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2945,
+    "Nom_Commune": "NESMOT",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2946,
+    "Nom_Commune": "SIDI ABDELDJEBAR",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 2947,
+    "Nom_Commune": "SEHAILIA",
+    "Id_Wilaya": 29
+  },
+  {
+    "Code_Commune": 3001,
+    "Nom_Commune": "OUARGLA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3002,
+    "Nom_Commune": "AIN BEIDA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3003,
+    "Nom_Commune": "N'GOUSSA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3004,
+    "Nom_Commune": "HASSI MESSAOUD",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3005,
+    "Nom_Commune": "ROUISSAT",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3006,
+    "Nom_Commune": "BALIDAT AMEUR",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3007,
+    "Nom_Commune": "TEBESBEST",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3008,
+    "Nom_Commune": "NEZLA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3009,
+    "Nom_Commune": "ZAOUIA EL ABIDIA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3010,
+    "Nom_Commune": "SIDI SLIMANE",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3011,
+    "Nom_Commune": "SIDI KHOUILED",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3012,
+    "Nom_Commune": "HASSI BEN ABDELLAH",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3013,
+    "Nom_Commune": "TOUGGOURT",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3014,
+    "Nom_Commune": "EL HADJIRA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3015,
+    "Nom_Commune": "TAIBET",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3016,
+    "Nom_Commune": "TAMACINE",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3017,
+    "Nom_Commune": "BENACEUR",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3018,
+    "Nom_Commune": "M'NAGUER",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3019,
+    "Nom_Commune": "MEGARINE",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3020,
+    "Nom_Commune": "EL ALLIA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3021,
+    "Nom_Commune": "EL BORMA",
+    "Id_Wilaya": 30
+  },
+  {
+    "Code_Commune": 3101,
+    "Nom_Commune": "ORAN",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3102,
+    "Nom_Commune": "GDYEL",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3103,
+    "Nom_Commune": "BIR EL DJIR",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3104,
+    "Nom_Commune": "HASSI BOUNIF",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3105,
+    "Nom_Commune": "ES SENIA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3106,
+    "Nom_Commune": "ARZEW",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3107,
+    "Nom_Commune": "BETHIOUA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3108,
+    "Nom_Commune": "MARSAT EL HADJADJ",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3109,
+    "Nom_Commune": "AIN TURK",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3110,
+    "Nom_Commune": "EL ANCAR",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3111,
+    "Nom_Commune": "OUED TLELAT",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3112,
+    "Nom_Commune": "TAFRAOUI",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3113,
+    "Nom_Commune": "SIDI CHAMI",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3114,
+    "Nom_Commune": "BOUFATIS",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3115,
+    "Nom_Commune": "MERS EL KEBIR",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3116,
+    "Nom_Commune": "BOUSFER",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3117,
+    "Nom_Commune": "EL KARMA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3118,
+    "Nom_Commune": "EL BRAYA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3119,
+    "Nom_Commune": "HASSI BEN OKBA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3120,
+    "Nom_Commune": "BEN FREHA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3121,
+    "Nom_Commune": "HASSI MEFSOUKH",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3122,
+    "Nom_Commune": "SIDI BEN YABKA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3123,
+    "Nom_Commune": "MESSERGHIN",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3124,
+    "Nom_Commune": "BOUTLELIS",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3125,
+    "Nom_Commune": "AIN KERMA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3126,
+    "Nom_Commune": "AIN BIYA",
+    "Id_Wilaya": 31
+  },
+  {
+    "Code_Commune": 3201,
+    "Nom_Commune": "EL BAYADH",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3202,
+    "Nom_Commune": "ROGASSA",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3203,
+    "Nom_Commune": "STITTEN",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3204,
+    "Nom_Commune": "BREZINA",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3205,
+    "Nom_Commune": "GHASSOUL",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3206,
+    "Nom_Commune": "BOUALEM",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3207,
+    "Nom_Commune": "EL ABIODH S.CHEIKH",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3208,
+    "Nom_Commune": "AIN EL ORAK",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3209,
+    "Nom_Commune": "ARBAOUAT",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3210,
+    "Nom_Commune": "BOUGTOUB",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3211,
+    "Nom_Commune": "EL KHEITHER",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3212,
+    "Nom_Commune": "KEF EL AHMAR",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3213,
+    "Nom_Commune": "BOUSSEMGHOUN",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3214,
+    "Nom_Commune": "CHELLALA",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3215,
+    "Nom_Commune": "KRAKDA",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3216,
+    "Nom_Commune": "EL BNOUD",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3217,
+    "Nom_Commune": "CHEGUIG",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3218,
+    "Nom_Commune": "SIDI AMEUR",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3219,
+    "Nom_Commune": "EL MEHARA",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3220,
+    "Nom_Commune": "TOUSMOULINE",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3221,
+    "Nom_Commune": "SIDI SLIMANE",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3222,
+    "Nom_Commune": "SIDI TIFOUR",
+    "Id_Wilaya": 32
+  },
+  {
+    "Code_Commune": 3301,
+    "Nom_Commune": "ILLIZI",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3302,
+    "Nom_Commune": "DJANET",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3303,
+    "Nom_Commune": "DEBDEB",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3304,
+    "Nom_Commune": "BORDJ OMAR DRISS",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3305,
+    "Nom_Commune": "BORDJ EL HAOUASSE",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3306,
+    "Nom_Commune": "IN AMENAS",
+    "Id_Wilaya": 33
+  },
+  {
+    "Code_Commune": 3401,
+    "Nom_Commune": "BORDJ BOU ARRERIDJ",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3402,
+    "Nom_Commune": "RAS EL OUED",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3403,
+    "Nom_Commune": "BORDJ ZEMOURA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3404,
+    "Nom_Commune": "MANSOURA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3405,
+    "Nom_Commune": "EL M'HIR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3406,
+    "Nom_Commune": "BEN DAOUD",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3407,
+    "Nom_Commune": "EL ACHIR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3408,
+    "Nom_Commune": "AIN TAGHROUT",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3409,
+    "Nom_Commune": "BORDJ GHDIR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3410,
+    "Nom_Commune": "SIDI EMBAREK",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3411,
+    "Nom_Commune": "EL HAMADIA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3412,
+    "Nom_Commune": "BELIMOUR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3413,
+    "Nom_Commune": "MEDJANA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3414,
+    "Nom_Commune": "TENIET EN NASR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3415,
+    "Nom_Commune": "DJAAFRA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3416,
+    "Nom_Commune": "EL MAIN",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3417,
+    "Nom_Commune": "OULED BRAHEM",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3418,
+    "Nom_Commune": "OULED DAHMANE",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3419,
+    "Nom_Commune": "HASNAOUA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3420,
+    "Nom_Commune": "KHELIL",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3421,
+    "Nom_Commune": "TAGLAIT",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3422,
+    "Nom_Commune": "KSOUR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3423,
+    "Nom_Commune": "OULED SIDI BRAHIM",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3424,
+    "Nom_Commune": "TAFREG",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3425,
+    "Nom_Commune": "COLLA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3426,
+    "Nom_Commune": "TIXTER",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3427,
+    "Nom_Commune": "EL ACH",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3428,
+    "Nom_Commune": "EL ANSEUR",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3429,
+    "Nom_Commune": "TESMART",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3430,
+    "Nom_Commune": "AIN TESRA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3431,
+    "Nom_Commune": "BIR KASDALI",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3432,
+    "Nom_Commune": "GHILASSA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3433,
+    "Nom_Commune": "RABTA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3434,
+    "Nom_Commune": "HARAZA",
+    "Id_Wilaya": 34
+  },
+  {
+    "Code_Commune": 3501,
+    "Nom_Commune": "BOUMERDES",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3502,
+    "Nom_Commune": "BOUDOUAOU",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3504,
+    "Nom_Commune": "AFIR",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3505,
+    "Nom_Commune": "BORDJ MENAIEL",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3506,
+    "Nom_Commune": "BAGHLIA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3507,
+    "Nom_Commune": "SIDI DAOUD",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3508,
+    "Nom_Commune": "NACIRIA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3509,
+    "Nom_Commune": "DJINET",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3510,
+    "Nom_Commune": "ISSER",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3511,
+    "Nom_Commune": "ZEMMOURI",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3512,
+    "Nom_Commune": "SI MUSTAPHA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3513,
+    "Nom_Commune": "TIDJELABINE",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3514,
+    "Nom_Commune": "CHABET EL AMEUR",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3515,
+    "Nom_Commune": "THENIA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3518,
+    "Nom_Commune": "TIMEZRIT",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3519,
+    "Nom_Commune": "CORSO",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3520,
+    "Nom_Commune": "OULED MOUSSA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3521,
+    "Nom_Commune": "LARBATACHE",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3522,
+    "Nom_Commune": "BOUZEGZA KEDDARA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3525,
+    "Nom_Commune": "TAOURGA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3526,
+    "Nom_Commune": "OULED AISSA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3527,
+    "Nom_Commune": "BEN CHOUD",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3528,
+    "Nom_Commune": "DELLYS",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3529,
+    "Nom_Commune": "AMMAL",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3530,
+    "Nom_Commune": "BENI AMRANE",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3531,
+    "Nom_Commune": "SOUK EL HAD",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3532,
+    "Nom_Commune": "BOUDOUAOU EL BAHRI",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3533,
+    "Nom_Commune": "OULED HEDADJ",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3535,
+    "Nom_Commune": "LAGHATA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3536,
+    "Nom_Commune": "HAMMADI",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3537,
+    "Nom_Commune": "KHEMIS EL KHECHNA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3538,
+    "Nom_Commune": "EL KHARROUBA",
+    "Id_Wilaya": 35
+  },
+  {
+    "Code_Commune": 3601,
+    "Nom_Commune": "EL TARF",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3602,
+    "Nom_Commune": "BOUHADJAR",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3603,
+    "Nom_Commune": "BEN M'HIDI",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3604,
+    "Nom_Commune": "BOUGOUS",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3605,
+    "Nom_Commune": "EL KALA",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3606,
+    "Nom_Commune": "AIN EL ASSEL",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3607,
+    "Nom_Commune": "EL AIOUN",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3608,
+    "Nom_Commune": "BOUTELDJA",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3609,
+    "Nom_Commune": "SOUAREKH",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3610,
+    "Nom_Commune": "BERRIHANE",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3611,
+    "Nom_Commune": "LAC DES OISEAUX",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3612,
+    "Nom_Commune": "CHEFIA",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3613,
+    "Nom_Commune": "DREAN",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3614,
+    "Nom_Commune": "CHIHANI",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3615,
+    "Nom_Commune": "CHEBAITA MOKHTAR",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3616,
+    "Nom_Commune": "BESBES",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3617,
+    "Nom_Commune": "ASFOUR",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3618,
+    "Nom_Commune": "ECHATT",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3619,
+    "Nom_Commune": "ZERIZER",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3620,
+    "Nom_Commune": "ZITOUNA",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3621,
+    "Nom_Commune": "AIN KERMA",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3622,
+    "Nom_Commune": "OUED ZITOUN",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3623,
+    "Nom_Commune": "HAMMAM BENI SALAH",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3624,
+    "Nom_Commune": "RAML SOUK",
+    "Id_Wilaya": 36
+  },
+  {
+    "Code_Commune": 3701,
+    "Nom_Commune": "TINDOUF",
+    "Id_Wilaya": 37
+  },
+  {
+    "Code_Commune": 3702,
+    "Nom_Commune": "OUM EL ASSEL",
+    "Id_Wilaya": 37
+  },
+  {
+    "Code_Commune": 3801,
+    "Nom_Commune": "TISSEMSILT",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3802,
+    "Nom_Commune": "BORDJ BOU NAAMA",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3803,
+    "Nom_Commune": "THENIET EL HAD",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3804,
+    "Nom_Commune": "LAZHARIA",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3805,
+    "Nom_Commune": "BENI CHAIB",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3806,
+    "Nom_Commune": "LARDJEM",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3807,
+    "Nom_Commune": "MELAAB",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3808,
+    "Nom_Commune": "SIDI LANTRI",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3809,
+    "Nom_Commune": "BORDJ E.ABDELKADER",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3810,
+    "Nom_Commune": "LAYOUNE",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3811,
+    "Nom_Commune": "KHEMISTI",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3812,
+    "Nom_Commune": "OULED BESSEM",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3813,
+    "Nom_Commune": "AMMARI",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3814,
+    "Nom_Commune": "YOUSSOUFIA",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3815,
+    "Nom_Commune": "SIDI BOUTOUCHENT",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3816,
+    "Nom_Commune": "LARBAA",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3817,
+    "Nom_Commune": "MAASEM",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3818,
+    "Nom_Commune": "SIDI ABED",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3819,
+    "Nom_Commune": "TAMALAHT",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3820,
+    "Nom_Commune": "SIDI SLIMANE",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3821,
+    "Nom_Commune": "BOUCAID",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3822,
+    "Nom_Commune": "BENI LAHCENE",
+    "Id_Wilaya": 38
+  },
+  {
+    "Code_Commune": 3901,
+    "Nom_Commune": "EL OUED",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3902,
+    "Nom_Commune": "ROBBAH",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3903,
+    "Nom_Commune": "OUED EL ALENDA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3904,
+    "Nom_Commune": "BAYADHA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3905,
+    "Nom_Commune": "NAKHLA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3906,
+    "Nom_Commune": "GUEMAR",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3907,
+    "Nom_Commune": "KOUININE",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3908,
+    "Nom_Commune": "REGUIBA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3909,
+    "Nom_Commune": "HAMRAIA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3910,
+    "Nom_Commune": "TAGHZOUT",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3911,
+    "Nom_Commune": "DEBILA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3912,
+    "Nom_Commune": "HASSANI ABDELKRIM",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3913,
+    "Nom_Commune": "HASSI KHELIFA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3914,
+    "Nom_Commune": "TALEB LARBI",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3915,
+    "Nom_Commune": "DOUAR EL MA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3916,
+    "Nom_Commune": "SIDI AOUN",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3917,
+    "Nom_Commune": "TRIFAOUI",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3918,
+    "Nom_Commune": "MAGRANE",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3919,
+    "Nom_Commune": "BENI GUECHA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3920,
+    "Nom_Commune": "OURMAS",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3921,
+    "Nom_Commune": "STILL",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3922,
+    "Nom_Commune": "M'RARA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3923,
+    "Nom_Commune": "SIDI KHELLIL",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3924,
+    "Nom_Commune": "TENDLA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3925,
+    "Nom_Commune": "EL OGLA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3926,
+    "Nom_Commune": "MIH OUANSA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3927,
+    "Nom_Commune": "EL M'GHAIR",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3928,
+    "Nom_Commune": "DJAMAA",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3929,
+    "Nom_Commune": "OUM TOUYOUR",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 3930,
+    "Nom_Commune": "SIDI AMRANE",
+    "Id_Wilaya": 39
+  },
+  {
+    "Code_Commune": 4001,
+    "Nom_Commune": "KHENCHELA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4002,
+    "Nom_Commune": "M'TOUSSA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4003,
+    "Nom_Commune": "KAIS",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4004,
+    "Nom_Commune": "BAGHAI",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4005,
+    "Nom_Commune": "EL HAMMA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4006,
+    "Nom_Commune": "AIN TOUILA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4007,
+    "Nom_Commune": "TAOUZIANAT",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4008,
+    "Nom_Commune": "BOUHMAMA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4009,
+    "Nom_Commune": "EL OUELDJA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4010,
+    "Nom_Commune": "REMILA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4011,
+    "Nom_Commune": "CHERCHAR",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4012,
+    "Nom_Commune": "DJELLAL",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4013,
+    "Nom_Commune": "BABAR",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4014,
+    "Nom_Commune": "TAMZA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4015,
+    "Nom_Commune": "ENSIGHA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4016,
+    "Nom_Commune": "OULED RECHACHE",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4017,
+    "Nom_Commune": "EL MAHMAL",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4018,
+    "Nom_Commune": "M'SARA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4019,
+    "Nom_Commune": "YABOUS",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4020,
+    "Nom_Commune": "KHIRANE",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4021,
+    "Nom_Commune": "CHELIA",
+    "Id_Wilaya": 40
+  },
+  {
+    "Code_Commune": 4101,
+    "Nom_Commune": "SOUK AHRAS",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4102,
+    "Nom_Commune": "SEDRATA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4103,
+    "Nom_Commune": "HANANCHA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4104,
+    "Nom_Commune": "MECHROHA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4105,
+    "Nom_Commune": "OULED DRISS",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4106,
+    "Nom_Commune": "TIFFECH",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4107,
+    "Nom_Commune": "ZAAROURIA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4108,
+    "Nom_Commune": "TAOURA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4109,
+    "Nom_Commune": "DREA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4110,
+    "Nom_Commune": "HADDADA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4111,
+    "Nom_Commune": "KHEDARA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4112,
+    "Nom_Commune": "MERAHNA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4113,
+    "Nom_Commune": "OULED MOUMEN",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4114,
+    "Nom_Commune": "BIR BOUHOUCHE",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4115,
+    "Nom_Commune": "M'DAOUROUCHE",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4116,
+    "Nom_Commune": "OUM EL ADHAIM",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4117,
+    "Nom_Commune": "AIN ZANA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4118,
+    "Nom_Commune": "AIN SOLTANE",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4119,
+    "Nom_Commune": "QUILLEN",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4120,
+    "Nom_Commune": "SIDI FREDJ",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4121,
+    "Nom_Commune": "SAFEL EL OUIDEN",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4122,
+    "Nom_Commune": "RAGOUBA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4123,
+    "Nom_Commune": "KHEMISSA",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4124,
+    "Nom_Commune": "OUED KEBERIT",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4125,
+    "Nom_Commune": "TERRAGUELT",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4126,
+    "Nom_Commune": "ZOUABI",
+    "Id_Wilaya": 41
+  },
+  {
+    "Code_Commune": 4201,
+    "Nom_Commune": "TIPAZA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4202,
+    "Nom_Commune": "MENACEUR",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4203,
+    "Nom_Commune": "LARHAT",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4204,
+    "Nom_Commune": "DOUAOUDA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4205,
+    "Nom_Commune": "BOURKIKA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4206,
+    "Nom_Commune": "KHEMISTI",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4210,
+    "Nom_Commune": "AGHABAL",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4212,
+    "Nom_Commune": "HADJOUT",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4213,
+    "Nom_Commune": "SIDI AMAR",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4214,
+    "Nom_Commune": "GOURAYA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4215,
+    "Nom_Commune": "NODOR",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4216,
+    "Nom_Commune": "CHAIBA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4217,
+    "Nom_Commune": "AIN TAGOURAIT",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4222,
+    "Nom_Commune": "CHERCHEL",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4223,
+    "Nom_Commune": "DAMOUS",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4224,
+    "Nom_Commune": "MEURAD",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4225,
+    "Nom_Commune": "FOUKA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4226,
+    "Nom_Commune": "BOU ISMAIL",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4227,
+    "Nom_Commune": "AHMER EL AIN",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4230,
+    "Nom_Commune": "BOU HAROUN",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4232,
+    "Nom_Commune": "SIDI GHILES",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4233,
+    "Nom_Commune": "MESSELMOUN",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4234,
+    "Nom_Commune": "SIDI RACHED",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4235,
+    "Nom_Commune": "KOLEA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4236,
+    "Nom_Commune": "ATTATBA",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4240,
+    "Nom_Commune": "SIDI SEMIANE",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4241,
+    "Nom_Commune": "BENI MILLEUK",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4242,
+    "Nom_Commune": "HADJERAT ENNOUS",
+    "Id_Wilaya": 42
+  },
+  {
+    "Code_Commune": 4301,
+    "Nom_Commune": "MILA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4302,
+    "Nom_Commune": "FERDJIOUA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4303,
+    "Nom_Commune": "CHELGHOUM LAID",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4304,
+    "Nom_Commune": "OUED ATHMENIA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4305,
+    "Nom_Commune": "AIN MELLOUK",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4306,
+    "Nom_Commune": "TELERGHMA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4307,
+    "Nom_Commune": "OUED SEGUEN",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4308,
+    "Nom_Commune": "TADJENANET",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4309,
+    "Nom_Commune": "BENYAHIA A.RAHMANE",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4310,
+    "Nom_Commune": "OUED ENDJA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4311,
+    "Nom_Commune": "AHMED RACHEDI",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4312,
+    "Nom_Commune": "OULED KHALOUF",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4313,
+    "Nom_Commune": "TIBERGUENT",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4314,
+    "Nom_Commune": "BOUHATEM",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4315,
+    "Nom_Commune": "ROUACHED",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4316,
+    "Nom_Commune": "TESSALA LAMATAI",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4317,
+    "Nom_Commune": "GRAREM GOUGA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4318,
+    "Nom_Commune": "SIDI MEROUANE",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4319,
+    "Nom_Commune": "TASSADANE HADDADA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4320,
+    "Nom_Commune": "DERRADJI BOUSSELAH",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4321,
+    "Nom_Commune": "MINAR ZARZA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4322,
+    "Nom_Commune": "AMIRA ARRAS",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4323,
+    "Nom_Commune": "TERRAI BAINEN",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4324,
+    "Nom_Commune": "HAMALA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4325,
+    "Nom_Commune": "AIN TINE",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4326,
+    "Nom_Commune": "EL MECHIRA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4327,
+    "Nom_Commune": "SIDI KHELIFA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4328,
+    "Nom_Commune": "ZEGHAIA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4329,
+    "Nom_Commune": "ELAYADI BARBES",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4330,
+    "Nom_Commune": "AIN BEIDA HARRICHE",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4331,
+    "Nom_Commune": "YAHIA BENIGUECHA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4332,
+    "Nom_Commune": "CHIGARA",
+    "Id_Wilaya": 43
+  },
+  {
+    "Code_Commune": 4401,
+    "Nom_Commune": "AIN DEFLA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4402,
+    "Nom_Commune": "MILIANA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4403,
+    "Nom_Commune": "BOUMEDFAA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4404,
+    "Nom_Commune": "KHEMIS MILIANA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4405,
+    "Nom_Commune": "HAMMAM RIGHA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4406,
+    "Nom_Commune": "ARIB",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4407,
+    "Nom_Commune": "DJELIDA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4408,
+    "Nom_Commune": "EL AMRA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4409,
+    "Nom_Commune": "BOURACHED",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4410,
+    "Nom_Commune": "EL ATTAF",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4411,
+    "Nom_Commune": "EL ABADIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4412,
+    "Nom_Commune": "DJENDEL",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4413,
+    "Nom_Commune": "OUED CHORFA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4414,
+    "Nom_Commune": "AIN LECHIAKH",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4415,
+    "Nom_Commune": "OUED DJEMAA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4416,
+    "Nom_Commune": "ROUINA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4417,
+    "Nom_Commune": "ZEDDINE",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4418,
+    "Nom_Commune": "EL HASSANIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4419,
+    "Nom_Commune": "BIR OULD KHELIFA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4420,
+    "Nom_Commune": "AIN SOLTANE",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4421,
+    "Nom_Commune": "TARIK IBN ZIAD",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4422,
+    "Nom_Commune": "BORDJ EMIR KHALED",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4423,
+    "Nom_Commune": "AIN TORKI",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4424,
+    "Nom_Commune": "SIDI LAKHDAR",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4425,
+    "Nom_Commune": "BEN ALLAL",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4426,
+    "Nom_Commune": "AIN BENIAN",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4427,
+    "Nom_Commune": "HOCEINIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4428,
+    "Nom_Commune": "BARBOUCHE",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4429,
+    "Nom_Commune": "DJEMAA OULED CHIKH",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4430,
+    "Nom_Commune": "MEKHATRIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4431,
+    "Nom_Commune": "BATHIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4432,
+    "Nom_Commune": "TACHTA ZEGAGHA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4433,
+    "Nom_Commune": "AIN BOUYAHIA",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4434,
+    "Nom_Commune": "EL MAINE",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4435,
+    "Nom_Commune": "TIBERKANINE",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4436,
+    "Nom_Commune": "BELAAS",
+    "Id_Wilaya": 44
+  },
+  {
+    "Code_Commune": 4501,
+    "Nom_Commune": "NAAMA",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4502,
+    "Nom_Commune": "MECHRIA",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4503,
+    "Nom_Commune": "AIN SEFRA",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4504,
+    "Nom_Commune": "TIOUT",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4505,
+    "Nom_Commune": "SFISSIFA",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4506,
+    "Nom_Commune": "MOGHRAR",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4507,
+    "Nom_Commune": "ASSELA",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4508,
+    "Nom_Commune": "DJENIANE BOURZEG",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4509,
+    "Nom_Commune": "AIN BEN KHELIL",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4510,
+    "Nom_Commune": "MAKMAN BEN AMER",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4511,
+    "Nom_Commune": "KASDIR",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4512,
+    "Nom_Commune": "EL BIOD",
+    "Id_Wilaya": 45
+  },
+  {
+    "Code_Commune": 4601,
+    "Nom_Commune": "AIN TEMOUCHENT",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4602,
+    "Nom_Commune": "CHAABET EL HAM",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4603,
+    "Nom_Commune": "AIN KIHAL",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4604,
+    "Nom_Commune": "HAMMAM BOUHADJAR",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4605,
+    "Nom_Commune": "BOU ZEDJAR",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4606,
+    "Nom_Commune": "OUED BERKECHE",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4607,
+    "Nom_Commune": "AGHLAL",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4608,
+    "Nom_Commune": "TERGA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4609,
+    "Nom_Commune": "AIN EL ARBAA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4610,
+    "Nom_Commune": "TAMZOURA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4611,
+    "Nom_Commune": "CHENTOUF",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4612,
+    "Nom_Commune": "SIDI BEN ADDA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4613,
+    "Nom_Commune": "AOUBELLIL",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4614,
+    "Nom_Commune": "EL MALAH",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4615,
+    "Nom_Commune": "SIDI BOUMEDIENE",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4616,
+    "Nom_Commune": "OUED SABAH",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4617,
+    "Nom_Commune": "OULED BOUDJEMAA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4618,
+    "Nom_Commune": "AIN TOLBA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4619,
+    "Nom_Commune": "EL AMRIA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4620,
+    "Nom_Commune": "HASSI EL GHELLA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4621,
+    "Nom_Commune": "HASSASNA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4622,
+    "Nom_Commune": "OULED KIHAL",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4623,
+    "Nom_Commune": "BENI SAF",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4624,
+    "Nom_Commune": "SIDI SAFI",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4625,
+    "Nom_Commune": "OULHACA EL GHERABA",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4626,
+    "Nom_Commune": "SIDI OURIACHE",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4627,
+    "Nom_Commune": "EL EMIR ABDELKADER",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4628,
+    "Nom_Commune": "EL MESSAID",
+    "Id_Wilaya": 46
+  },
+  {
+    "Code_Commune": 4701,
+    "Nom_Commune": "GHARDAIA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4702,
+    "Nom_Commune": "EL MENIA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4703,
+    "Nom_Commune": "DAYA BEN DAHOUA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4704,
+    "Nom_Commune": "BERRIANE",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4705,
+    "Nom_Commune": "METLILI",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4706,
+    "Nom_Commune": "GUERRARA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4707,
+    "Nom_Commune": "EL ATTEUF",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4708,
+    "Nom_Commune": "ZELFANA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4709,
+    "Nom_Commune": "SEBSEB",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4710,
+    "Nom_Commune": "BOUNOURA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4711,
+    "Nom_Commune": "HASSI EL FEHAL",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4712,
+    "Nom_Commune": "HASSI EL GARA",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4713,
+    "Nom_Commune": "MANSOURAH",
+    "Id_Wilaya": 47
+  },
+  {
+    "Code_Commune": 4801,
+    "Nom_Commune": "RELIZANE",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4802,
+    "Nom_Commune": "OUED RHIOU",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4803,
+    "Nom_Commune": "BELAASSEL BOUZEGZA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4804,
+    "Nom_Commune": "SIDI SAADA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4805,
+    "Nom_Commune": "OULED AICHE",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4806,
+    "Nom_Commune": "SIDI LAZREG",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4807,
+    "Nom_Commune": "EL HAMADNA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4808,
+    "Nom_Commune": "SIDI MHAMED BENALI",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4809,
+    "Nom_Commune": "MEDIOUNA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4810,
+    "Nom_Commune": "SIDI KHETTAB",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4811,
+    "Nom_Commune": "AMMI MOUSSA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4812,
+    "Nom_Commune": "ZEMMOURA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4813,
+    "Nom_Commune": "BENI DERGOUN",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4814,
+    "Nom_Commune": "DJIDIOUIA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4815,
+    "Nom_Commune": "EL GUETTAR",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4816,
+    "Nom_Commune": "HAMRI",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4817,
+    "Nom_Commune": "EL MATMAR",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4818,
+    "Nom_Commune": "SIDI M. BEN AOUDA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4819,
+    "Nom_Commune": "AIN TAREK",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4820,
+    "Nom_Commune": "OUED ESSALEM",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4821,
+    "Nom_Commune": "OUARIZANE",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4822,
+    "Nom_Commune": "MAZOUNA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4823,
+    "Nom_Commune": "KALAA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4824,
+    "Nom_Commune": "AIN RAHMA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4825,
+    "Nom_Commune": "YELLEL",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4826,
+    "Nom_Commune": "OUED EL DJEMAA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4827,
+    "Nom_Commune": "RAMKA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4828,
+    "Nom_Commune": "MENDES",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4829,
+    "Nom_Commune": "LAHLEF",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4830,
+    "Nom_Commune": "BENI ZENTIS",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4831,
+    "Nom_Commune": "SOUK EL HAAD",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4832,
+    "Nom_Commune": "DAR BEN ABDELLAH",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4833,
+    "Nom_Commune": "EL HASSI",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4834,
+    "Nom_Commune": "HAD ECHKALLA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4835,
+    "Nom_Commune": "BENDAOUD",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4836,
+    "Nom_Commune": "EL OULDJA",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4837,
+    "Nom_Commune": "MERDJA SIDI ABED",
+    "Id_Wilaya": 48
+  },
+  {
+    "Code_Commune": 4838,
+    "Nom_Commune": "OULED SIDI MIHOUB",
+    "Id_Wilaya": 48
+  }
+]
+}
