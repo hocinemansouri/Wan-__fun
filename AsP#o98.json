@@ -1,52 +1,104 @@
 {
-	"Sectors":
-	[
-		{
-		"familyName": "ELECTRICIEN",
-		"act": [
-			{
-				"des":"ELECTRICIEN AMBULANT",
-				"code":1511213
-			},
-			{
-				"des":"ARTISAN ELECTRICIEN DU BATIMENT (INSTALLATION D'ELECTRICITE)",
-				"code":3034101
-			}
-		], 
-		
-		"imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg"
-		
-		},
-		{
-		"familyName" : "MACON",
-		 "act" : [
-			{"des":"ENTREPRISE ARTISANALE DE MACONNERIE","code":"1202704"},
-			{"des":"MACON AMBULANT","code":"1511212"},
-			{"des":"ARTISAN MACON (MACONNERIE)","code":"3023205"}
-		], "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg"
-		},
-		{"familyName" : "MECANICIEN",
-		 "act" : [
-			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
-			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
-			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
-		], "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
-		{"familyName" : "PEINTRE",
-		 "act" : [
-			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
-			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
-			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
-		], "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
-		{"familyName" : "PLOMBIER",
-		 "act" : [
-			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
-			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
-			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
-		], "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
-		{"familyName" : "TAXI",
-		 "act" : [
-			{"des":"ENTREPRISE DE GESTION DE TAXIS","code":"1604103"},
-			{"des":"TAXI","code":"2040013"}
-		],"imgurl": "imgurl":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg"}
-	]
+  "Sectors": [
+    {
+      "familyName": "ELECTRICIEN",
+      "act": [
+        {
+          "des": "ELECTRICIEN AMBULANT",
+          "code": "1511213"
+        },
+        {
+          "des": "ARTISAN ELECTRICIEN DU BATIMENT (INSTALLATION D'ELECTRICITE)",
+          "code": "3034101"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg"
+    },
+    {
+      "familyName": "MACON",
+      "act": [
+        {
+          "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
+          "code": "1202704"
+        },
+        {
+          "des": "MACON AMBULANT",
+          "code": "1511212"
+        },
+        {
+          "des": "ARTISAN MACON (MACONNERIE)",
+          "code": "3023205"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg"
+    },
+    {
+      "familyName": "MECANICIEN",
+      "act": [
+        {
+          "des": "MECANICIEN AUTOMOBILE AMBULANT",
+          "code": "1511218"
+        },
+        {
+          "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
+          "code": "3089720"
+        },
+        {
+          "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
+          "code": "3089728"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"
+    },
+    {
+      "familyName": "PEINTRE",
+      "act": [
+        {
+          "des": "MECANICIEN AUTOMOBILE AMBULANT",
+          "code": "1511218"
+        },
+        {
+          "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
+          "code": "3089720"
+        },
+        {
+          "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
+          "code": "3089728"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"
+    },
+    {
+      "familyName": "PLOMBIER",
+      "act": [
+        {
+          "des": "MECANICIEN AUTOMOBILE AMBULANT",
+          "code": "1511218"
+        },
+        {
+          "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
+          "code": "3089720"
+        },
+        {
+          "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
+          "code": "3089728"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"
+    },
+    {
+      "familyName": "TAXI",
+      "act": [
+        {
+          "des": "ENTREPRISE DE GESTION DE TAXIS",
+          "code": "1604103"
+        },
+        {
+          "des": "TAXI",
+          "code": "2040013"
+        }
+      ],
+      "imgurl": "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg"
+    }
+  ]
 }
