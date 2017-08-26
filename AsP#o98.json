@@ -12,7 +12,8 @@
           "code": "3034101"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg",
+      "ar": "كهربائي"
     },
     {
       "familyName": "MACON",
@@ -30,7 +31,8 @@
           "code": "3023205"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg",
+      "ar": "بناء"
     },
     {
       "familyName": "MECANICIEN",
@@ -48,7 +50,8 @@
           "code": "3089728"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg",
+      "ar": "ميكانيكي"
     },
     {
       "familyName": "PEINTRE",
@@ -62,7 +65,8 @@
           "code": "3033801"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/peintre.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/peintre.jpg",
+      "ar": "دهان"
     },
     {
       "familyName": "PLOMBIER",
@@ -76,7 +80,8 @@
           "code": "3033302"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/plombier.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/plombier.jpg",
+      "ar": "مرصص صحي"
     },
     {
       "familyName": "TAXI",
@@ -90,7 +95,8 @@
           "code": "2040013"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg",
+      "ar": "تاكسي"
     }
   ]
 }
