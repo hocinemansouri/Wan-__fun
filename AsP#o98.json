@@ -40,8 +40,8 @@
     },
     {
       "familyName": "MECANICIEN",
-      "color1": "#aaaaaa",
-      "color2": "#888888",
+      "color1": "#888888",
+      "color2": "#aaaaaa",
       "act": [
         {
           "des": "MECANICIEN AUTOMOBILE AMBULANT",
@@ -78,8 +78,8 @@
     },
     {
       "familyName": "PLOMBIER",
-      "color1": "#56c8d8",
-      "color2": "#0097a7",
+      "color1": "#0097a7",
+      "color2": "#56c8d8",
       "act": [
         {
           "des": "PLOMBIER AMBULANT",
@@ -95,8 +95,8 @@
     },
     {
       "familyName": "TAXI",
-      "color1": "#ffc400",
-      "color2": "#c79400",
+      "color1": "#c79400",
+      "color2": "#ffc400",
       "act": [
         {
           "des": "ENTREPRISE DE GESTION DE TAXIS",
