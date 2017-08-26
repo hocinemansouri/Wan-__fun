@@ -12,7 +12,12 @@
 			{"des":"MACON AMBULANT","code":"1511212"},
 			{"des":"ARTISAN MACON (MACONNERIE)","code":"3023205"}
 		]},
-		{"familyName" : "MECANICIEN","familyID" : "3"},
+		{"familyName" : "MECANICIEN","familyID" : "3", "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg",
+		 "act" : [
+			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
+			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
+			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
+		]},
 		{"familyName" : "PEINTRE","familyID" : "4"},
 		{"familyName" : "PLOMBIER","familyID" : "5"},
 		{"familyName" : "TAXI","familyID" : "6","imgurl":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg",
