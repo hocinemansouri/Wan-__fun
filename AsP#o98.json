@@ -6,7 +6,12 @@
 			{"des":"ELECTRICIEN AMBULANT","code":"1511213"},
 			{"des":"ARTISAN ELECTRICIEN DU BATIMENT (INSTALLATION D'ELECTRICITE)","code":"3034101"}
 		]},
-		{"familyName" : "MACON","familyID" : "2"},
+		{"familyName" : "MACON","familyID" : "2", "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg",
+		 "act" : [
+			{"des":"ENTREPRISE ARTISANALE DE MACONNERIE","code":"1202704"},
+			{"des":"MACON AMBULANT","code":"1511212"},
+			{"des":"ARTISAN MACON (MACONNERIE)","code":"3023205"}
+		]},
 		{"familyName" : "MECANICIEN","familyID" : "3"},
 		{"familyName" : "PEINTRE","familyID" : "4"},
 		{"familyName" : "PLOMBIER","familyID" : "5"},
