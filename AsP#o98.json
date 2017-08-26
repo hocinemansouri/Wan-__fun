@@ -2,6 +2,8 @@
   "Sectors": [
     {
       "familyName": "ELECTRICIEN",
+      "color1": "#0d47a1",
+      "color2": "#5472d3",
       "act": [
         {
           "des": "ELECTRICIEN AMBULANT",
@@ -17,6 +19,8 @@
     },
     {
       "familyName": "maçon",
+      "color1": "#bb4d00",
+      "color2": "#f57c00",
       "act": [
         {
           "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
@@ -36,6 +40,8 @@
     },
     {
       "familyName": "MECANICIEN",
+      "color1": "#aaaaaa",
+      "color2": "#888888",
       "act": [
         {
           "des": "MECANICIEN AUTOMOBILE AMBULANT",
@@ -55,6 +61,8 @@
     },
     {
       "familyName": "PEINTRE",
+      "color1": "#4b830d",
+      "color2": "#7cb342",
       "act": [
         {
           "des": "PEINTURE AMBULANT",
@@ -70,6 +78,8 @@
     },
     {
       "familyName": "PLOMBIER",
+      "color1": "#56c8d8",
+      "color2": "#0097a7",
       "act": [
         {
           "des": "PLOMBIER AMBULANT",
@@ -85,6 +95,8 @@
     },
     {
       "familyName": "TAXI",
+      "color1": "#ffc400",
+      "color2": "#c79400",
       "act": [
         {
           "des": "ENTREPRISE DE GESTION DE TAXIS",
