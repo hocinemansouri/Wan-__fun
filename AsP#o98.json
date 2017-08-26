@@ -2,8 +2,8 @@
 	"Sectors":
 	[
 		{"familyName" : "ELECTRICIEN","familyID" : "1" , "act" :[
-			{"Elec Ambulant" : "25142"},
-			{"Elec Batiment" : "45420"}
+			{"Elec Ambulant" : "25142", "imgurl":"https://github.com/hocinemansouri/Wan-__fun/blob/master/android.png"},
+			{"Elec Batiment" : "45420", "imgurl":"https://github.com/hocinemansouri/Wan-__fun/blob/master/android.png"}
 		]},
 		{"familyName" : "MACON","familyID" : "2"},
 		{"familyName" : "MECANICIEN","familyID" : "3"},
