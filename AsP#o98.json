@@ -18,8 +18,18 @@
 			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
 			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
 		], "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
-		{"familyName" : "PEINTRE"},
-		{"familyName" : "PLOMBIER"},
+		{"familyName" : "PEINTRE",
+		 "act" : [
+			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
+			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
+			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
+		], "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
+		{"familyName" : "PLOMBIER",
+		 "act" : [
+			{"des":"MECANICIEN AUTOMOBILE AMBULANT","code":"1511218"},
+			{"des":"ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)","code":"3089720"},
+			{"des":"ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)","code":"3089728"}
+		], "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg"},
 		{"familyName" : "TAXI",
 		 "act" : [
 			{"des":"ENTREPRISE DE GESTION DE TAXIS","code":"1604103"},
