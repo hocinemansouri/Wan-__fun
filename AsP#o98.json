@@ -1,7 +1,10 @@
 {
 	"Sectors":
 	[
-		{"familyName" : "ELECTRICIEN","familyID" : "1"},
+		{"familyName" : "ELECTRICIEN","familyID" : "1" , "act" :[
+		"Elec Ambulant" : "25142",
+		"Elec Batiment" : "45420"
+		]},
 		{"familyName" : "MACON","familyID" : "2"},
 		{"familyName" : "MECANICIEN","familyID" : "3"},
 		{"familyName" : "PEINTRE","familyID" : "4"},
