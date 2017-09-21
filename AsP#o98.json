@@ -109,6 +109,23 @@
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg",
       "ar": "تاكسي"
+    },
+    {
+      "familyName": "MEDECIN",
+      "color1": "#0097a7",
+      "color2": "#56c8d8",
+      "act": [
+        {
+          "des": "MEDECIN",
+          "code": "847"
+        },
+        {
+          "des": "CHIRURGIEN DENTISTE",
+          "code": "846"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/medecin.jpg",
+      "ar": "طبيب"
     }
   ]
 }
