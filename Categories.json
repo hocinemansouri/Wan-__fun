@@ -1,37 +1,44 @@
 {
   "Categories": [
     {
-      "familyName": "AUXILIAIRES DE JUSTICE",
+      "name_fr": "AUXILIAIRES DE JUSTICE",
+      "name_ar": "",
       "code":"1",
       "imgurl": ""
     },
     {
-      "familyName": "MEDECINE ET SANTE",
+      "name_fr": "MEDECINE ET SANTE",
+      "name_ar": "الطب والصحة",
       "code":"2",
       "imgurl": ""
     },
     {
-      "familyName": "ESTHETIQUE ET BEAUTE",
+      "name_fr": "ESTHETIQUE ET BEAUTE",
+      "name_ar": "الجمال",
       "code":"3",
       "imgurl": ""
     },
     {
-      "familyName": "ASSAINISSEMENT",
+      "name_fr": "ASSAINISSEMENT",
+      "name_ar": "الصرف الصحي",
       "code":"4",
       "imgurl": ""
     },
     {
-      "familyName": "HEBERGEMENT ET RESTAURATION",
+      "name_fr": "HEBERGEMENT ET RESTAURATION",
+      "name_ar": "السكن و الاطعام",
       "code":"5",
       "imgurl": ""
     },
     {
-      "familyName": "SERVICES BATIMENT",
+      "name_fr": "SERVICES BATIMENT",
+      "name_ar": "خدمات البناء",
       "code":"6",
       "imgurl": ""
     },
     {
-      "familyName": "MECANIQUE AUTO",
+      "name_fr": "MECANIQUE AUTO",
+      "name_ar": "ميكانيك السيارات",
       "code":"7",
       "imgurl": ""
     }
