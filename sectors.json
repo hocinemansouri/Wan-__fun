@@ -25,18 +25,10 @@
         {
           "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
           "code": "475"
-        },
-        {
-          "des": "MACON AMBULANT",
-          "code": "512"
-        },
-        {
-          "des": "ARTISAN MACON (MACONNERIE)",
-          "code": "912"
         }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/health.jpg",
-      "ar": "بناء"
+      "ar": "الطب والصحة"
     },
     {
       "sectorsName": "ESTHETIQUE ET BEAUTE",
