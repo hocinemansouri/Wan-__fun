@@ -1,0 +1,39 @@
+{
+  "Categories": [
+    {
+      "familyName": "AUXILIAIRES DE JUSTICE",
+      "code":"1",
+      "imgurl": ""
+    },
+    {
+      "familyName": "MEDECINE ET SANTE",
+      "code":"2",
+      "imgurl": ""
+    },
+    {
+      "familyName": "ESTHETIQUE ET BEAUTE",
+      "code":"3",
+      "imgurl": ""
+    },
+    {
+      "familyName": "ASSAINISSEMENT",
+      "code":"4",
+      "imgurl": ""
+    },
+    {
+      "familyName": "HEBERGEMENT ET RESTAURATION",
+      "code":"5",
+      "imgurl": ""
+    },
+    {
+      "familyName": "SERVICES BATIMENT",
+      "code":"6",
+      "imgurl": ""
+    },
+    {
+      "familyName": "MECANIQUE AUTO",
+      "code":"7",
+      "imgurl": ""
+    }
+  ]
+}
