@@ -2,8 +2,8 @@
   "Sectors": [
     {
       "sectorsName": "AUXILIAIRES DE JUSTICE",
-      "color1": "#0d47a1",
-      "color2": "#5472d3",
+      "color1": "#bb4d00",
+      "color2": "#f57c00",
       "act": [
         {
           "des": "ELECTRICIEN AMBULANT",
@@ -14,13 +14,13 @@
           "code": "993"
         }
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg",
-      "ar": "كهربائي"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/justice.jpg",
+      "ar": "العدالة"
     },
     {
       "sectorsName": "MEDECINE ET SANTE",
-      "color1": "#bb4d00",
-      "color2": "#f57c00",
+      "color1": "#0d47a1",
+      "color2": "#5472d3",
       "act": [
         {
           "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
