@@ -1,0 +1,131 @@
+{
+  "Sectors": [
+    {
+      "sectorsName": "AUXILIAIRES DE JUSTICE",
+      "color1": "#0d47a1",
+      "color2": "#5472d3",
+      "act": [
+        {
+          "des": "ELECTRICIEN AMBULANT",
+          "code": "513"
+        },
+        {
+          "des": "ARTISAN ELECTRICIEN DU BATIMENT (INSTALLATION D'ELECTRICITE)",
+          "code": "993"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/electricien.jpg",
+      "ar": "كهربائي"
+    },
+    {
+      "sectorsName": "MEDECINE ET SANTE",
+      "color1": "#bb4d00",
+      "color2": "#f57c00",
+      "act": [
+        {
+          "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
+          "code": "475"
+        },
+        {
+          "des": "MACON AMBULANT",
+          "code": "512"
+        },
+        {
+          "des": "ARTISAN MACON (MACONNERIE)",
+          "code": "912"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/macon.jpg",
+      "ar": "بناء"
+    },
+    {
+      "sectorsName": "ESTHETIQUE ET BEAUTE",
+      "color1": "#888888",
+      "color2": "#aaaaaa",
+      "act": [
+        {
+          "des": "MECANICIEN AUTOMOBILE AMBULANT",
+          "code": "516"
+        },
+        {
+          "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
+          "code": "1220"
+        },
+        {
+          "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
+          "code": "1228"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanicien2.jpg",
+      "ar": "ميكانيكي"
+    },
+    {
+      "sectorsName": "ASSAINISSEMENT",
+      "color1": "#4b830d",
+      "color2": "#7cb342",
+      "act": [
+        {
+          "des": "PEINTURE AMBULANT",
+          "code": "515"
+        },
+        {
+          "des": "ARTISAN PEINTRE EN BATIMENT (PEINTRE EN BATIMENT)",
+          "code": "985"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/peintre.jpg",
+      "ar": "دهان"
+    },
+    {
+      "sectorsName": "HEBERGEMENT ET RESTAURATION",
+      "color1": "#0097a7",
+      "color2": "#56c8d8",
+      "act": [
+        {
+          "des": "PLOMBIER AMBULANT",
+          "code": "504"
+        },
+        {
+          "des": "ARTISAN PLOMBIER (PLOMBERIE SANITAIRE)",
+          "code": "978"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/plombier.jpg",
+      "ar": "مرصص صحي"
+    },
+    {
+      "sectorsName": "SERVICES BATIMENT",
+      "color1": "#c79400",
+      "color2": "#ffc400",
+      "act": [
+        {
+          "des": "ENTREPRISE DE GESTION DE TAXIS",
+          "code": "588"
+        },
+        {
+          "des": "TAXI",
+          "code": "875"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/taxi1.jpg",
+      "ar": "تاكسي"
+    },
+    {
+      "sectorsName": "MECANIQUE AUTO",
+      "color1": "#0097a7",
+      "color2": "#56c8d8",
+      "act": [
+        {
+          "des": "MEDECIN",
+          "code": "847"
+        },
+        {
+          "des": "CHIRURGIEN DENTISTE",
+          "code": "846"
+        }
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/medecin.jpg",
+      "ar": "طبيب"
+    }
+  ]
+}
