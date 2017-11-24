@@ -38,7 +38,6 @@
       "color1": "#0d47a1",
       "color2": "#5472d3",
       "act": [
-        {
           {
             "des": "CHIRURGIEN DENTISTE",
             "code": 846,
@@ -117,7 +116,7 @@
             "des_ar": "خدمات الجنازة",
             "imgact": "/"
           }
-        }
+        
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/health.jpg",
       "ar": "الطب والصحة"
