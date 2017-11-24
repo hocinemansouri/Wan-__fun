@@ -4,6 +4,7 @@
       "sectorsName": "AUXILIAIRES DE JUSTICE",
       "color1": "#bb4d00",
       "color2": "#f57c00",
+      "sectorcode":1,
       "act": [
         {
           "des": "AVOCAT",
@@ -37,6 +38,7 @@
       "sectorsName": "MEDECINE ET SANTE",
       "color1": "#0d47a1",
       "color2": "#5472d3",
+      "sectorcode":2,
       "act": [
           {
             "des": "CHIRURGIEN DENTISTE",
@@ -125,6 +127,7 @@
       "sectorsName": "ESTHETIQUE ET BEAUTE",
       "color1": "#888888",
       "color2": "#aaaaaa",
+      "sectorcode":3,
       "act": [
         {
           "des": "MECANICIEN AUTOMOBILE AMBULANT",
@@ -152,6 +155,7 @@
       "sectorsName": "ASSAINISSEMENT",
       "color1": "#4b830d",
       "color2": "#7cb342",
+      "sectorcode":4,
       "act": [
         {
           "des": "PEINTURE AMBULANT",
@@ -173,6 +177,7 @@
       "sectorsName": "HEBERGEMENT ET RESTAURATION",
       "color1": "#0097a7",
       "color2": "#56c8d8",
+      "sectorcode":5,
       "act": [
         {
           "des": "PLOMBIER AMBULANT",
@@ -194,6 +199,7 @@
       "sectorsName": "SERVICES BATIMENT",
       "color1": "#c79400",
       "color2": "#ffc400",
+      "sectorcode":6,
       "act": [
         {
           "des": "ENTREPRISE DE GESTION DE TAXIS",
@@ -215,6 +221,7 @@
       "sectorsName": "MECANIQUE AUTO",
       "color1": "#0097a7",
       "color2": "#56c8d8",
+      "sectorcode":7,
       "act": [
         {
           "des": "MEDECIN",
