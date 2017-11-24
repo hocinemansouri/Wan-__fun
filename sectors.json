@@ -129,17 +129,20 @@
         {
           "des": "MECANICIEN AUTOMOBILE AMBULANT",
           "code": "516",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
           "code": "1220",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
           "code": "1228",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         }
       ],
       "imgurl": "",
@@ -153,12 +156,14 @@
         {
           "des": "PEINTURE AMBULANT",
           "code": "515",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "ARTISAN PEINTRE EN BATIMENT (PEINTRE EN BATIMENT)",
           "code": "985",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         }
       ],
       "imgurl": "",
@@ -172,12 +177,14 @@
         {
           "des": "PLOMBIER AMBULANT",
           "code": "504",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "ARTISAN PLOMBIER (PLOMBERIE SANITAIRE)",
           "code": "978",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         }
       ],
       "imgurl": "",
@@ -191,11 +198,14 @@
         {
           "des": "ENTREPRISE DE GESTION DE TAXIS",
           "code": "588",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "TAXI",
-          "code": "875"
+          "code": "875",
+          "des_ar": "",
+          "imgact": "/"
         }
       ],
       "imgurl": "",
@@ -209,12 +219,14 @@
         {
           "des": "MEDECIN",
           "code": "847",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         },
         {
           "des": "CHIRURGIEN DENTISTE",
           "code": "846",
-          "imgAct":""
+          "des_ar": "",
+          "imgact": "/"
         }
       ],
       "imgurl": "",
