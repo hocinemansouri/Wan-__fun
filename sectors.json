@@ -7,11 +7,13 @@
       "act": [
         {
           "des": "ELECTRICIEN AMBULANT",
-          "code": "513"
+          "code": "513",
+          "imgAct":""
         },
         {
           "des": "ARTISAN ELECTRICIEN DU BATIMENT (INSTALLATION D'ELECTRICITE)",
-          "code": "993"
+          "code": "993",
+          "imgAct":""
         }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/justice.jpg",
@@ -24,7 +26,8 @@
       "act": [
         {
           "des": "ENTREPRISE ARTISANALE DE MACONNERIE",
-          "code": "475"
+          "code": "475",
+          "imgAct":""
         }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/health.jpg",
@@ -37,15 +40,18 @@
       "act": [
         {
           "des": "MECANICIEN AUTOMOBILE AMBULANT",
-          "code": "516"
+          "code": "516",
+          "imgAct":""
         },
         {
           "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
-          "code": "1220"
+          "code": "1220",
+          "imgAct":""
         },
         {
           "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
-          "code": "1228"
+          "code": "1228",
+          "imgAct":""
         }
       ],
       "imgurl": "",
@@ -58,11 +64,13 @@
       "act": [
         {
           "des": "PEINTURE AMBULANT",
-          "code": "515"
+          "code": "515",
+          "imgAct":""
         },
         {
           "des": "ARTISAN PEINTRE EN BATIMENT (PEINTRE EN BATIMENT)",
-          "code": "985"
+          "code": "985",
+          "imgAct":""
         }
       ],
       "imgurl": "",
@@ -75,11 +83,13 @@
       "act": [
         {
           "des": "PLOMBIER AMBULANT",
-          "code": "504"
+          "code": "504",
+          "imgAct":""
         },
         {
           "des": "ARTISAN PLOMBIER (PLOMBERIE SANITAIRE)",
-          "code": "978"
+          "code": "978",
+          "imgAct":""
         }
       ],
       "imgurl": "",
@@ -92,7 +102,8 @@
       "act": [
         {
           "des": "ENTREPRISE DE GESTION DE TAXIS",
-          "code": "588"
+          "code": "588",
+          "imgAct":""
         },
         {
           "des": "TAXI",
@@ -109,11 +120,13 @@
       "act": [
         {
           "des": "MEDECIN",
-          "code": "847"
+          "code": "847",
+          "imgAct":""
         },
         {
           "des": "CHIRURGIEN DENTISTE",
-          "code": "846"
+          "code": "846",
+          "imgAct":""
         }
       ],
       "imgurl": "",
