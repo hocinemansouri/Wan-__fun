@@ -16,7 +16,7 @@
           "des": "HUISSIERS",
           "code": 860,
           "des_ar": "محضر قضائي",
-          "imgact": "/"
+          "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/justice.jpg"
         },
         {
           "des": "TRADUCTEUR",
@@ -28,7 +28,7 @@
           "des": "ECRIVAIN PUBLIC",
           "code": 857,
           "des_ar": "كاتب عمومي",
-          "imgact": "/"
+          "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/ecrivain.jpg"
         }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/justice.jpg",
