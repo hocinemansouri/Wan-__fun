@@ -129,27 +129,9 @@
       "color2": "#aaaaaa",
       "sectorcode":3,
       "act": [
-        {
-          "des": "MECANICIEN AUTOMOBILE AMBULANT",
-          "code": "516",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "ARTISAN MECANICIEN SPECIALISTE EN DIESEL (MECANIQUE DIESEL)",
-          "code": "1220",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "ARTISAN MECANICIEN GENERAL (MECANIQUE GENERALE)",
-          "code": "1228",
-          "des_ar": "",
-          "imgact": "/"
-        }
-      ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/default.jpg",
-      "ar": "ميكانيكي"
+        ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/est.jpg",
+      "ar": "الجمال"
     },
     {
       "sectorsName": "ASSAINISSEMENT",
@@ -157,21 +139,10 @@
       "color2": "#7cb342",
       "sectorcode":4,
       "act": [
-        {
-          "des": "PEINTURE AMBULANT",
-          "code": "515",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "ARTISAN PEINTRE EN BATIMENT (PEINTRE EN BATIMENT)",
-          "code": "985",
-          "des_ar": "",
-          "imgact": "/"
-        }
+        
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/default.jpg",
-      "ar": "دهان"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/assainissement.jpg",
+      "ar": "النظافة و الصرف الصحي"
     },
     {
       "sectorsName": "HEBERGEMENT ET RESTAURATION",
@@ -179,21 +150,10 @@
       "color2": "#56c8d8",
       "sectorcode":5,
       "act": [
-        {
-          "des": "PLOMBIER AMBULANT",
-          "code": "504",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "ARTISAN PLOMBIER (PLOMBERIE SANITAIRE)",
-          "code": "978",
-          "des_ar": "",
-          "imgact": "/"
-        }
+        
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/default.jpg",
-      "ar": "مرصص صحي"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/heb.jpg",
+      "ar": "السكن و الاطعام"
     },
     {
       "sectorsName": "SERVICES BATIMENT",
@@ -201,21 +161,10 @@
       "color2": "#ffc400",
       "sectorcode":6,
       "act": [
-        {
-          "des": "ENTREPRISE DE GESTION DE TAXIS",
-          "code": "588",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "TAXI",
-          "code": "875",
-          "des_ar": "",
-          "imgact": "/"
-        }
+        
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/default.jpg",
-      "ar": "تاكسي"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/batiment.jpg",
+      "ar": "خدمات البناء"
     },
     {
       "sectorsName": "MECANIQUE AUTO",
@@ -223,21 +172,10 @@
       "color2": "#56c8d8",
       "sectorcode":7,
       "act": [
-        {
-          "des": "MEDECIN",
-          "code": "847",
-          "des_ar": "",
-          "imgact": "/"
-        },
-        {
-          "des": "CHIRURGIEN DENTISTE",
-          "code": "846",
-          "des_ar": "",
-          "imgact": "/"
-        }
+        
       ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/default.jpg",
-      "ar": "طبيب"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/mecanique.jpg",
+      "ar": "ميكانيك السيارات"
     }
   ]
 }
