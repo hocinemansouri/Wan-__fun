@@ -150,7 +150,18 @@
       "color2": "#7cb342",
       "sectorcode":8,
       "act": [
-        
+        {
+            "des": "TAXI",
+            "code": 875,
+            "des_ar": "سيارة أجرة",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
+          },
+        {
+            "des": "ENTREPRISE DE GESTION DE TAXIS",
+            "code": 588,
+            "des_ar": "شركة إدارة سيارات الأجرة",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
+          }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg",
       "ar": "النقل والسفر"
