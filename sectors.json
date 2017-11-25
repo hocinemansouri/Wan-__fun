@@ -137,7 +137,7 @@
       "sectorsName": "HEBERGEMENT ET RESTAURATION",
       "color1": "#0097a7",
       "color2": "#56c8d8",
-      "sectorcode":5,
+      "sectorcode":4,
       "act": [
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/heb.jpg",
@@ -147,7 +147,7 @@
       "sectorsName": "TRANSPORT et VOYAGE",
       "color1": "#4b830d",
       "color2": "#7cb342",
-      "sectorcode":8,
+      "sectorcode":5,
       "act": [
         {
             "des": "TAXI",
@@ -169,7 +169,7 @@
       "sectorsName": "ASSAINISSEMENT",
       "color1": "#4b830d",
       "color2": "#7cb342",
-      "sectorcode":4,
+      "sectorcode":6,
       "act": [
         
       ],
@@ -180,7 +180,7 @@
       "sectorsName": "SERVICES BATIMENT",
       "color1": "#c79400",
       "color2": "#ffc400",
-      "sectorcode":6,
+      "sectorcode":7,
       "act": [
         
       ],
@@ -191,7 +191,7 @@
       "sectorsName": "MECANIQUE AUTO",
       "color1": "#0097a7",
       "color2": "#56c8d8",
-      "sectorcode":7,
+      "sectorcode":8,
       "act": [
         
       ],
