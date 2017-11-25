@@ -134,17 +134,6 @@
       "ar": "الجمال"
     },
     {
-      "sectorsName": "ASSAINISSEMENT",
-      "color1": "#4b830d",
-      "color2": "#7cb342",
-      "sectorcode":4,
-      "act": [
-        
-      ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
-      "ar": "النظافة و الصرف الصحي"
-    },
-    {
       "sectorsName": "HEBERGEMENT ET RESTAURATION",
       "color1": "#0097a7",
       "color2": "#56c8d8",
@@ -154,6 +143,28 @@
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/heb.jpg",
       "ar": "السكن و الاطعام"
+    },
+    {
+      "sectorsName": "TRANSPORT et VOYAGE",
+      "color1": "#4b830d",
+      "color2": "#7cb342",
+      "sectorcode":8,
+      "act": [
+        
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg",
+      "ar": "النقل والسفر"
+    },
+    {
+      "sectorsName": "ASSAINISSEMENT",
+      "color1": "#4b830d",
+      "color2": "#7cb342",
+      "sectorcode":4,
+      "act": [
+        
+      ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
+      "ar": "النظافة و الصرف الصحي"
     },
     {
       "sectorsName": "SERVICES BATIMENT",
