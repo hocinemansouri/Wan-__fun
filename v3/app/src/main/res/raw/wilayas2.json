@@ -1,0 +1,292 @@
+{
+  "wilaya": [
+    {
+      "Id_Wilaya": 2,
+      "CODE_WILAYA": 1,
+      "WILAYA": "ADRAR",
+      "Wilaya_Arab": "أدرار"
+    },
+    {
+      "Id_Wilaya": 3,
+      "CODE_WILAYA": 2,
+      "WILAYA": "CHLEF",
+      "Wilaya_Arab": "الشلف"
+    },
+    {
+      "Id_Wilaya": 4,
+      "CODE_WILAYA": 3,
+      "WILAYA": "LAGHOUAT",
+      "Wilaya_Arab": "الأغواط"
+    },
+    {
+      "Id_Wilaya": 5,
+      "CODE_WILAYA": 4,
+      "WILAYA": "OUM EL BOUAGHI",
+      "Wilaya_Arab": "أم البواقي"
+    },
+    {
+      "Id_Wilaya": 6,
+      "CODE_WILAYA": 5,
+      "WILAYA": "BATNA",
+      "Wilaya_Arab": "باتنة"
+    },
+    {
+      "Id_Wilaya": 7,
+      "CODE_WILAYA": 6,
+      "WILAYA": "BEJAIA",
+      "Wilaya_Arab": "بجاية"
+    },
+    {
+      "Id_Wilaya": 8,
+      "CODE_WILAYA": 7,
+      "WILAYA": "BISKRA",
+      "Wilaya_Arab": "بسكرة"
+    },
+    {
+      "Id_Wilaya": 9,
+      "CODE_WILAYA": 8,
+      "WILAYA": "BECHAR",
+      "Wilaya_Arab": "بشار"
+    },
+    {
+      "Id_Wilaya": 10,
+      "CODE_WILAYA": 9,
+      "WILAYA": "BLIDA",
+      "Wilaya_Arab": "البليدة"
+    },
+    {
+      "Id_Wilaya": 11,
+      "CODE_WILAYA": 10,
+      "WILAYA": "BOUIRA",
+      "Wilaya_Arab": "البويرة"
+    },
+    {
+      "Id_Wilaya": 12,
+      "CODE_WILAYA": 11,
+      "WILAYA": "TAMANRASSET",
+      "Wilaya_Arab": "تامنغست"
+    },
+    {
+      "Id_Wilaya": 13,
+      "CODE_WILAYA": 12,
+      "WILAYA": "TEBESSA",
+      "Wilaya_Arab": "تبسة"
+    },
+    {
+      "Id_Wilaya": 14,
+      "CODE_WILAYA": 13,
+      "WILAYA": "TLEMCEN",
+      "Wilaya_Arab": "تلمسان"
+    },
+    {
+      "Id_Wilaya": 15,
+      "CODE_WILAYA": 14,
+      "WILAYA": "TIARET",
+      "Wilaya_Arab": "تيارت"
+    },
+    {
+      "Id_Wilaya": 16,
+      "CODE_WILAYA": 15,
+      "WILAYA": "TIZI-OUZOU",
+      "Wilaya_Arab": "تيزي وزو"
+    },
+    {
+      "Id_Wilaya": 17,
+      "CODE_WILAYA": 16,
+      "WILAYA": "ALGER",
+      "Wilaya_Arab": "الجزائر"
+    },
+    {
+      "Id_Wilaya": 18,
+      "CODE_WILAYA": 17,
+      "WILAYA": "DJELFA",
+      "Wilaya_Arab": "الجلفة"
+    },
+    {
+      "Id_Wilaya": 19,
+      "CODE_WILAYA": 18,
+      "WILAYA": "JIJEL",
+      "Wilaya_Arab": "جيجل"
+    },
+    {
+      "Id_Wilaya": 20,
+      "CODE_WILAYA": 19,
+      "WILAYA": "SETIF",
+      "Wilaya_Arab": "سطيف"
+    },
+    {
+      "Id_Wilaya": 21,
+      "CODE_WILAYA": 20,
+      "WILAYA": "SAIDA",
+      "Wilaya_Arab": "سعيدة"
+    },
+    {
+      "Id_Wilaya": 22,
+      "CODE_WILAYA": 21,
+      "WILAYA": "SKIKDA",
+      "Wilaya_Arab": "سكيكدة"
+    },
+    {
+      "Id_Wilaya": 23,
+      "CODE_WILAYA": 22,
+      "WILAYA": "SIDI BEL ABBES",
+      "Wilaya_Arab": "سيدي بلعباس"
+    },
+    {
+      "Id_Wilaya": 24,
+      "CODE_WILAYA": 23,
+      "WILAYA": "ANNABA",
+      "Wilaya_Arab": "عنابة"
+    },
+    {
+      "Id_Wilaya": 25,
+      "CODE_WILAYA": 24,
+      "WILAYA": "GUELMA",
+      "Wilaya_Arab": "قالمة"
+    },
+    {
+      "Id_Wilaya": 26,
+      "CODE_WILAYA": 25,
+      "WILAYA": "CONSTANTINE",
+      "Wilaya_Arab": "قسنطينة"
+    },
+    {
+      "Id_Wilaya": 27,
+      "CODE_WILAYA": 26,
+      "WILAYA": "MEDEA",
+      "Wilaya_Arab": "المدية"
+    },
+    {
+      "Id_Wilaya": 28,
+      "CODE_WILAYA": 27,
+      "WILAYA": "MOSTAGANEM",
+      "Wilaya_Arab": "مستغانم"
+    },
+    {
+      "Id_Wilaya": 29,
+      "CODE_WILAYA": 28,
+      "WILAYA": "MSILA",
+      "Wilaya_Arab": "المسيلة"
+    },
+    {
+      "Id_Wilaya": 30,
+      "CODE_WILAYA": 29,
+      "WILAYA": "MASCARA",
+      "Wilaya_Arab": "معسكر"
+    },
+    {
+      "Id_Wilaya": 31,
+      "CODE_WILAYA": 30,
+      "WILAYA": "OUARGLA",
+      "Wilaya_Arab": "ورقلة"
+    },
+    {
+      "Id_Wilaya": 32,
+      "CODE_WILAYA": 31,
+      "WILAYA": "ORAN",
+      "Wilaya_Arab": "وهران"
+    },
+    {
+      "Id_Wilaya": 33,
+      "CODE_WILAYA": 32,
+      "WILAYA": "EL BAYADH",
+      "Wilaya_Arab": "البيض"
+    },
+    {
+      "Id_Wilaya": 34,
+      "CODE_WILAYA": 33,
+      "WILAYA": "ILLIZI",
+      "Wilaya_Arab": "ايليزى"
+    },
+    {
+      "Id_Wilaya": 35,
+      "CODE_WILAYA": 34,
+      "WILAYA": "BORDJ BOUARRERIDJ",
+      "Wilaya_Arab": "برج بوعريرج"
+    },
+    {
+      "Id_Wilaya": 36,
+      "CODE_WILAYA": 35,
+      "WILAYA": "BOUMERDES",
+      "Wilaya_Arab": "بومرداس"
+    },
+    {
+      "Id_Wilaya": 37,
+      "CODE_WILAYA": 36,
+      "WILAYA": "EL TARF",
+      "Wilaya_Arab": "الطارف"
+    },
+    {
+      "Id_Wilaya": 38,
+      "CODE_WILAYA": 37,
+      "WILAYA": "TINDOUF",
+      "Wilaya_Arab": "تندوف"
+    },
+    {
+      "Id_Wilaya": 39,
+      "CODE_WILAYA": 38,
+      "WILAYA": "TISSEMSILT",
+      "Wilaya_Arab": "تيسمسيلت"
+    },
+    {
+      "Id_Wilaya": 40,
+      "CODE_WILAYA": 39,
+      "WILAYA": "EL OUED",
+      "Wilaya_Arab": "الوادى"
+    },
+    {
+      "Id_Wilaya": 41,
+      "CODE_WILAYA": 40,
+      "WILAYA": "KHENCHLA",
+      "Wilaya_Arab": "خنشلة"
+    },
+    {
+      "Id_Wilaya": 42,
+      "CODE_WILAYA": 41,
+      "WILAYA": "SOUK AHRAS",
+      "Wilaya_Arab": "سوق أهراس"
+    },
+    {
+      "Id_Wilaya": 43,
+      "CODE_WILAYA": 42,
+      "WILAYA": "TIPAZA",
+      "Wilaya_Arab": "تيبازة"
+    },
+    {
+      "Id_Wilaya": 44,
+      "CODE_WILAYA": 43,
+      "WILAYA": "MILA",
+      "Wilaya_Arab": "ميلة"
+    },
+    {
+      "Id_Wilaya": 45,
+      "CODE_WILAYA": 44,
+      "WILAYA": "AIN DEFLA",
+      "Wilaya_Arab": "عين الدفلى"
+    },
+    {
+      "Id_Wilaya": 46,
+      "CODE_WILAYA": 45,
+      "WILAYA": "NAAMA",
+      "Wilaya_Arab": "النعامة"
+    },
+    {
+      "Id_Wilaya": 47,
+      "CODE_WILAYA": 46,
+      "WILAYA": "AIN TEMOUCHENT",
+      "Wilaya_Arab": "عين تموشنت"
+    },
+    {
+      "Id_Wilaya": 48,
+      "CODE_WILAYA": 47,
+      "WILAYA": "GHARDAIA",
+      "Wilaya_Arab": "غرداية"
+    },
+    {
+      "Id_Wilaya": 49,
+      "CODE_WILAYA": 48,
+      "WILAYA": "RELIZANE",
+      "Wilaya_Arab": "غليزان"
+    }
+  ]
+}
