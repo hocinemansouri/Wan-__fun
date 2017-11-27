@@ -2,7 +2,7 @@
   "Categories": [
     {
       "name_fr": "AUXILIAIRES DE JUSTICE",
-      "name_ar": "العدالة",
+      "name_ar": "موظفوا القضاء",
       "code":"1",
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/justice.jpg"
     },
@@ -14,19 +14,19 @@
     },
     {
       "name_fr": "ESTHETIQUE ET BEAUTE",
-      "name_ar": "الجمال",
+      "name_ar": "التجميل",
       "code":"3",
       "imgurl": ""
     },
     {
       "name_fr": "ASSAINISSEMENT",
-      "name_ar": "الصرف الصحي",
+      "name_ar": "التطهير",
       "code":"4",
       "imgurl": ""
     },
     {
       "name_fr": "HEBERGEMENT ET RESTAURATION",
-      "name_ar": "السكن و الاطعام",
+      "name_ar": "أماكن الإقامة و خدمات المطاعم",
       "code":"5",
       "imgurl": ""
     },
