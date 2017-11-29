@@ -4,29 +4,29 @@
       "sectorsName": "AUXILIAIRES DE JUSTICE",
       "color1": "#bb4d00",
       "color2": "#f57c00",
-      "sectorcode":1,
+      "sectorcode":"1",
       "act": [
         {
           "des": "AVOCAT",
-          "code": 854,
+          "code": "854",
           "des_ar": "محامي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/avocat.jpg"
         },
         {
           "des": "HUISSIER",
-          "code": 860,
+          "code": "860",
           "des_ar": "محضر قضائي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/justice.jpg"
         },
         {
           "des": "TRADUCTEUR",
-          "code": 856,
+          "code": "856",
           "des_ar": "مترجم",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/traducteur.jpg"
         },
         {
           "des": "ECRIVAIN PUBLIC",
-          "code": 857,
+          "code": "857",
           "des_ar": "كاتب عام",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ecrivain.jpg"
         }
@@ -38,83 +38,83 @@
       "sectorsName": "MEDECINE ET SANTE",
       "color1": "#0d47a1",
       "color2": "#5472d3",
-      "sectorcode":2,
+      "sectorcode":"2",
       "act": [
           {
             "des": "CHIRURGIEN DENTISTE",
-            "code": 846,
+            "code": "846",
             "des_ar": "طبيب الأسنان",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/dentiste.jpg"
           },
           {
             "des": "MEDECIN",
-            "code": 847,
+            "code": "847",
             "des_ar": "طبيب",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/health.jpg"
           },
           {
             "des": "SAGE FEMME",
-            "code": 848,
+            "code": "848",
             "des_ar": "قابلة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/sagefame.jpg"
           },
           {
             "des": "VETERINAIRE",
-            "code": 849,
+            "code": "849",
             "des_ar": "طبيب بيطري",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/vet.jpg"
           },
           {
             "des": "CABINET DE KINESITHERAPIE",
-            "code": 850,
+            "code": "850",
             "des_ar": "عيادة العلاج الحركي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/KINESITHERAPIE.jpg"
           },
           {
             "des": "IMAGERIE MEDICALE",
-            "code": 563,
+            "code": "563",
             "des_ar": "التصوير الطبي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/irm.jpg"
           },
           {
             "des": "CABINET D'OPTOMETRIE",
-            "code": 851,
+            "code": "851",
             "des_ar": "عيادة أمراض العيون",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/OPTOMETRIE.jpg"
           },
           {
             "des": "LABORATOIRE D'ANALYSES",
-            "code": 558,
+            "code": "558",
             "des_ar": "مخبر التحاليل الطبية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/LABORATOIRE.jpg"
           },
           {
             "des": "OPTICIEN LUNETIER",
-            "code": 555,
+            "code": "555",
             "des_ar": "نظاراتي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/OPTICIEN.jpg"
           },
           {
             "des": "PHARMACIE",
-            "code": 554,
+            "code": "554",
             "des_ar": "صيدلية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/PHARMACIE.jpg"
           },
           {
             "des": "PROTHESE MEDICALE",
-            "code": 559,
+            "code": "559",
             "des_ar": "أخصائي في الأعضاء الاصطناعية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/health.jpg"
           },
           {
             "des": "SERVICE PRIVE D'AMBULANCES",
-            "code": 557,
+            "code": "557",
             "des_ar": "خدمة الاسعاف الخاص",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ambulance.jpg"
           },
           {
             "des": "SERVICE FUNERAIRE",
-            "code": 562,
+            "code": "562",
             "des_ar": "الخدمات الجنائزية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
           }
@@ -127,7 +127,7 @@
       "sectorsName": "ESTHETIQUE ET BEAUTE",
       "color1": "#888888",
       "color2": "#aaaaaa",
-      "sectorcode":3,
+      "sectorcode":"3",
       "act": [
         ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/est.jpg",
@@ -137,7 +137,7 @@
       "sectorsName": "HEBERGEMENT ET RESTAURATION",
       "color1": "#0097a7",
       "color2": "#56c8d8",
-      "sectorcode":4,
+      "sectorcode":"4",
       "act": [
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/heb.jpg",
@@ -147,17 +147,17 @@
       "sectorsName": "TRANSPORT et VOYAGE",
       "color1": "#4b830d",
       "color2": "#7cb342",
-      "sectorcode":5,
+      "sectorcode":"5",
       "act": [
         {
             "des": "TAXI",
-            "code": 875,
+            "code": "875",
             "des_ar": "سيارة أجرة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
         },
         {
             "des": "ENTREPRISE DE GESTION DE TAXIS",
-            "code": 588,
+            "code": "588",
             "des_ar": "شركة إدارة سيارات الأجرة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
          }
@@ -169,7 +169,7 @@
       "sectorsName": "ASSAINISSEMENT",
       "color1": "#4b830d",
       "color2": "#7cb342",
-      "sectorcode":6,
+      "sectorcode":"6",
       "act": [
         
       ],
@@ -180,7 +180,7 @@
       "sectorsName": "SERVICES BATIMENT",
       "color1": "#c79400",
       "color2": "#ffc400",
-      "sectorcode":7,
+      "sectorcode":"7",
       "act": [
         
       ],
@@ -191,7 +191,7 @@
       "sectorsName": "MECANIQUE AUTO",
       "color1": "#0097a7",
       "color2": "#56c8d8",
-      "sectorcode":8,
+      "sectorcode":"8",
       "act": [
         
       ],
