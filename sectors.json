@@ -139,7 +139,7 @@
             "des": "CENTRES DE REMISE EN FORME",
             "code": "1189,1249,1250,557,836,839,561",
             "des_ar": "مراكز اللياقة البدنية",
-            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/REMISE EN FORME1.jpg"
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/REMISE EN FORME.jpg"
           },
         {
             "des": "DEGRAISSAGE",
@@ -163,13 +163,13 @@
             "des": "HOTELS",
             "code": "531,522,523,527,530,526,709,847,553",
             "des_ar": "فنادق",
-            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/.jpg"
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/HOTELS.jpg"
           },
         {
             "des": "CAFES ET RESTAURANTS",
             "code": "551,552,508,534,538,539,540,541,536",
             "des_ar": "مقاهي ومطاعم",
-            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/RETSAURANT.jpg"
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/RESTAURANT.jpg"
           }       
         
       ],
