@@ -8,31 +8,31 @@
       "act": [
         {
           "des": "AVOCAT",
-          "code": "868",
-          "des_ar": "محام",
+          "code": "854",
+          "des_ar": "محامي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/avocat.jpg"
         },
         {
-          "des": "HUISSIERS",
-          "code": "874",
+          "des": "HUISSIER",
+          "code": "860",
           "des_ar": "محضر قضائي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/justice.jpg"
         },
         {
           "des": "TRADUCTEUR",
-          "code": "870",
+          "code": "856",
           "des_ar": "مترجم",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/traducteur.jpg"
         },
         {
           "des": "ECRIVAIN PUBLIC",
-          "code": "871",
-          "des_ar": "كاتب عمومي",
+          "code": "857",
+          "des_ar": "كاتب عام",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ecrivain.jpg"
         }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/justice.jpg",
-      "ar": "العدالة"
+      "ar": "موظفوا القضاء"
     },
     {
       "sectorsName": "MEDECINE ET SANTE",
@@ -42,80 +42,80 @@
       "act": [
           {
             "des": "CHIRURGIEN DENTISTE",
-            "code": "851",
+            "code": "846",
             "des_ar": "طبيب الأسنان",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/dentiste.jpg"
           },
           {
             "des": "MEDECIN",
-            "code": "852",
+            "code": "847",
             "des_ar": "طبيب",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/health.jpg"
           },
           {
             "des": "SAGE FEMME",
-            "code": "853",
+            "code": "848",
             "des_ar": "قابلة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/sagefame.jpg"
           },
           {
             "des": "VETERINAIRE",
-            "code": "854",
+            "code": "849",
             "des_ar": "طبيب بيطري",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/vet.jpg"
           },
           {
             "des": "CABINET DE KINESITHERAPIE",
-            "code": "855",
-            "des_ar": "العلاج الطبيعي",
+            "code": "850",
+            "des_ar": "عيادة العلاج الحركي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/KINESITHERAPIE.jpg"
           },
           {
             "des": "IMAGERIE MEDICALE",
-            "code": "564",
+            "code": "563",
             "des_ar": "التصوير الطبي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/irm.jpg"
           },
           {
             "des": "CABINET D'OPTOMETRIE",
-            "code": "856",
-            "des_ar": "طب عيون",
+            "code": "851",
+            "des_ar": "عيادة أمراض العيون",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/OPTOMETRIE.jpg"
           },
           {
             "des": "LABORATOIRE D'ANALYSES",
-            "code": "890",
-            "des_ar": "مختبر التحليل الطبي",
+            "code": "558",
+            "des_ar": "مخبر التحاليل الطبية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/LABORATOIRE.jpg"
           },
           {
             "des": "OPTICIEN LUNETIER",
-            "code": "556",
-            "des_ar": "أخصائي النظارات",
+            "code": "555",
+            "des_ar": "نظاراتي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/OPTICIEN.jpg"
           },
           {
             "des": "PHARMACIE",
-            "code": "555",
+            "code": "554",
             "des_ar": "صيدلية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/PHARMACIE.jpg"
           },
           {
             "des": "PROTHESE MEDICALE",
-            "code": "560",
-            "des_ar": "بدلات طبية",
+            "code": "559",
+            "des_ar": "أخصائي في الأعضاء الاصطناعية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/health.jpg"
           },
           {
             "des": "SERVICE PRIVE D'AMBULANCES",
-            "code": "558",
-            "des_ar": "خدمة اسعاف خاصة",
+            "code": "557",
+            "des_ar": "خدمة الاسعاف الخاص",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ambulance.jpg"
           },
           {
-            "des": "SERVICES FUNERAIRES",
-            "code": "563",
-            "des_ar": "خدمات الجنازة",
+            "des": "SERVICE FUNERAIRE",
+            "code": "562",
+            "des_ar": "الخدمات الجنائزية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
           }
         
@@ -129,6 +129,25 @@
       "color2": "#aaaaaa",
       "sectorcode":"3",
       "act": [
+        {
+            "des": "COIFFURE",
+            "code": "1247,1246,835,1245",
+            "des_ar": "حلاقة",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/coiffeur.jpg"
+          },
+        {
+            "des": "CENTRES DE REMISE EN FORME",
+            "code": "1189,1249,1250,557,836,839,561",
+            "des_ar": "مراكز اللياقة البدنية",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/REMISE EN FORME1.jpg"
+          },
+        {
+            "des": "DEGRAISSAGE",
+            "code": "838",
+            "des_ar": "غسل الملابس",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/DEGRAISSAGE.jpg"
+          }
+        
         ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/est.jpg",
       "ar": "التجميل "
@@ -139,6 +158,20 @@
       "color2": "#56c8d8",
       "sectorcode":"4",
       "act": [ 
+        
+        {
+            "des": "HOTELS",
+            "code": "531,522,523,527,530,526,709,847,553",
+            "des_ar": "فنادق",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/.jpg"
+          },
+        {
+            "des": "CAFES ET RESTAURANTS",
+            "code": "551,552,508,534,538,539,540,541,536",
+            "des_ar": "مقاهي ومطاعم",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/RETSAURANT.jpg"
+          }       
+        
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/heb.jpg",
       "ar": "أماكن الإقامة و خدمات المطاعم"
@@ -171,7 +204,10 @@
       "color2": "#7cb342",
       "sectorcode":"6",
       "act": [
-      ],
+        
+        "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686"
+        
+              ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
       "ar": "التطهير"
     },
