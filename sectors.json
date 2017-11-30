@@ -208,8 +208,10 @@
       "sectorcode":"6",
       "act": [
         {
+          "des": "ENTREPRISE DE GESTION DE TAXIS",
             "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686",
-            
+            "des_ar": "شركة إدارة سيارات الأجرة",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
          }
         
       ],
