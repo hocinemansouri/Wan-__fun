@@ -204,12 +204,13 @@
       "color2": "#7cb342",
       "sectorcode":"6",
       "act": [
-        
+        "des": "ASSAINISSEMENT ET NETTOYAGE",
         "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686"
-        
+        "des_ar":"التنظيف و التطهير",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg"
               ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
-      "ar": "التطهير"
+      "ar": "التنظيف و التطهير"
     },
     {
       "sectorsName": "SERVICES BATIMENT",
