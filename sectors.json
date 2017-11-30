@@ -248,6 +248,18 @@
       "color2": "#56c8d8",
       "sectorcode":"8",
       "act": [
+        {
+        "des": "MECANICIEN AUTOMOBILE",
+        "code": "516,1194,1242",
+        "des_ar":"ميكانيكي سيارات",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg"
+        },
+        {
+        "des": "MECANICIEN SUR LOURD",
+        "code": "1193,1242",
+        "des_ar":"ميكانيكي الوزن الثقيل",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg"
+        }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg",
       "ar": "ميكانيك السيارات"
