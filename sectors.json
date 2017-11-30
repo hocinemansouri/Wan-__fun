@@ -129,6 +129,28 @@
       "color2": "#aaaaaa",
       "sectorcode":"3",
       "act": [
+        
+        {
+            "des": "COIFFURE",
+            "code": "1247,1246,835,1245",
+            "des_ar": "الحلاقة",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
+          },
+        {
+            "des": "CENTRES DE REMISE EN FORME",
+            "code": "1189,1249,1250,557,836,839,561",
+            "des_ar": "مراكز اللياقة البدنية",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
+          },
+        
+         {
+            "des": "DEGRAISSAGE",
+            "code": "838",
+           "des_ar": "غسل الملابس",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
+          }
+               
+        
         ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/est.jpg",
       "ar": "التجميل "
@@ -139,6 +161,20 @@
       "color2": "#56c8d8",
       "sectorcode":"4",
       "act": [
+        
+        {
+            "des": "HOTELS",
+            "code": "531,522,523,527,530,526,709,847",
+            "des_ar": "فنادق",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
+          },
+        {
+            "des": "CAFE ET RESTAURANTS",
+            "code": "1189,1249,1250,557,836,839,561",
+            "des_ar": "مقاهي و مطاعم",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/FUNERAIRES.jpg"
+          }
+       
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/heb.jpg",
       "ar": "أماكن الإقامة و خدمات المطاعم"
@@ -171,6 +207,11 @@
       "color2": "#7cb342",
       "sectorcode":"6",
       "act": [
+        {
+            "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686",
+            
+         }
+        
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
       "ar": "التطهير"
