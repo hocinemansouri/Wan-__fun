@@ -128,7 +128,13 @@
       "color1": "#888888",
       "color2": "#aaaaaa",
       "sectorcode":"3",
-      "act": [      
+      "act": [
+        {
+            "des": "CHIRURGIEN DENTISTE",
+            "code": "846,847",
+            "des_ar": "طبيب الأسنان",
+            "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/dentiste.jpg"
+          }
         ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/est.jpg",
       "ar": "التجميل "
