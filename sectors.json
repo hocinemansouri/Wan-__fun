@@ -204,11 +204,13 @@
       "color2": "#7cb342",
       "sectorcode":"6",
       "act": [
+        {
         "des": "ASSAINISSEMENT ET NETTOYAGE",
-        "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686"
+        "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686",
         "des_ar":"التنظيف و التطهير",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg"
-              ],
+        }
+      ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg",
       "ar": "التنظيف و التطهير"
     },
@@ -218,6 +220,24 @@
       "color2": "#ffc400",
       "sectorcode":"7",
       "act": [
+        {
+        "des": "MAÇONNERIE",
+        "code": "475,512,926",
+        "des_ar":"البناء",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/macon.jpg"
+        },
+        {
+        "des": "PLOMBIER",
+        "code": "504,992",
+        "des_ar":"الترصيص الصحي",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/plombier.jpg"
+        },
+        {
+        "des": "PEINTRE",
+        "code": "515,999",
+        "des_ar":"دهان",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/peintre.jpg"
+        }
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/batiment.jpg",
       "ar": "خدمات البناء"
