@@ -1,4 +1,4 @@
 KHIDMA
 
-Une application mobile dédiée au public afin faciliter la recherche des services créés dans le cadre du dispositif ANSEJ.
+Une application mobile dédiée au public afin de faciliter la recherche des services créés dans le cadre du dispositif ANSEJ.
 
