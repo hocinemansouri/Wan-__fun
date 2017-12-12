@@ -1,6 +1,6 @@
 {
   "Sectors": [
-    {
+       {
       "sectorsName": "AUXILIAIRES DE JUSTICE",
       "color1": "#bb4d00",
       "color2": "#f57c00",
@@ -269,8 +269,8 @@
       ],
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg",
       "ar": "ميكانيك السيارات"
-    }
-   {
+    },
+    {
       "sectorsName": "GARDERIE D'ENFANTS ET CRECHES",
       "color1": "#0097a7",
       "color2": "#56c8d8",
