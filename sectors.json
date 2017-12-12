@@ -271,20 +271,26 @@
       "ar": "ميكانيك السيارات"
     },
     {
-      "sectorsName": "GARDERIE D'ENFANTS ET CRECHES",
+      "sectorsName": "ECOLES ET CRECHES",
       "color1": "#0097a7",
       "color2": "#56c8d8",
       "sectorcode":"9",
       "act": [
         {
-        "des": "CRECHE",
+        "des": "CRECHES",
         "code": "663,672",
-        "des_ar":"حضانة",
+        "des_ar":"دور الحضانة",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/Creche.jpg"
+        },
+        {
+        "des": "ECOLES",
+        "code": "700,718,722",
+        "des_ar":"مدارس",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ECOLES.jpg"
         }
         ],
-      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/Creche.jpg",
-      "ar": "دور الحضانة"
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ECOLESCRECHES.jpg",
+      "ar": "مدارس و دور الحضانة"
     } 
   ]
 }
