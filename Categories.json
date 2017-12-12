@@ -37,10 +37,11 @@
       "imgurl": ""
     },
     {
-      "name_fr": "MECANIQUE AUTO",
-      "name_ar": "ميكانيك السيارات",
-      "code":"7",
+      "name_fr": "GARDERIE D'ENFANTS ET CRECHES",
+      "name_ar": "دور الحضانة",
+      "code":"9",
       "imgurl": ""
     }
+    
   ]
 }
