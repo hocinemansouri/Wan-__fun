@@ -270,5 +270,21 @@
       "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg",
       "ar": "ميكانيك السيارات"
     }
+   {
+      "sectorsName": "GARDERIE D'ENFANTS ET CRECHES",
+      "color1": "#0097a7",
+      "color2": "#56c8d8",
+      "sectorcode":"9",
+      "act": [
+        {
+        "des": "CRECHE",
+        "code": "663,372",
+        "des_ar":"حضانة",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/Creche.jpg"
+        }
+        ],
+      "imgurl": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/Creche.jpg",
+      "ar": "دور الحضانة"
+    } 
   ]
 }
