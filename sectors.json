@@ -8,25 +8,25 @@
       "act": [
         {
           "des": "AVOCAT",
-          "code": "868",
+          "code": "869",
           "des_ar": "محامي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/avocat.jpg"
         },
         {
           "des": "HUISSIER",
-          "code": "874",
+          "code": "875",
           "des_ar": "محضر قضائي",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/justice.jpg"
         },
         {
           "des": "TRADUCTEUR",
-          "code": "870",
+          "code": "871",
           "des_ar": "مترجم",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/traducteur.jpg"
         },
         {
           "des": "ECRIVAIN PUBLIC",
-          "code": "871",
+          "code": "872",
           "des_ar": "كاتب عام",
           "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ecrivain.jpg"
         }
@@ -42,43 +42,43 @@
       "act": [
           {
             "des": "CHIRURGIEN DENTISTE",
-            "code": "851",
+            "code": "852",
             "des_ar": "طبيب الأسنان",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/dentiste.jpg"
           },
           {
             "des": "MEDECIN",
-            "code": "852",
+            "code": "853",
             "des_ar": "طبيب",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/health.jpg"
           },
           {
             "des": "SAGE FEMME",
-            "code": "853",
+            "code": "854",
             "des_ar": "قابلة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/sagefame.jpg"
           },
           {
             "des": "VETERINAIRE",
-            "code": "854",
+            "code": "855",
             "des_ar": "طبيب بيطري",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/vet.jpg"
           },
           {
             "des": "CABINET DE KINESITHERAPIE",
-            "code": "855",
+            "code": "856",
             "des_ar": "عيادة العلاج الحركي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/KINESITHERAPIE.jpg"
           },
           {
             "des": "IMAGERIE MEDICALE",
-            "code": "564",
+            "code": "567",
             "des_ar": "التصوير الطبي",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/irm.jpg"
           },
           {
             "des": "CABINET D'OPTOMETRIE",
-            "code": "856",
+            "code": "857",
             "des_ar": "عيادة أمراض العيون",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/OPTOMETRIE.jpg"
           },
@@ -131,19 +131,19 @@
       "act": [
         {
             "des": "COIFFURE",
-            "code": "1247,1246,835,1245",
+            "code": "1248,1247,836,1246",
             "des_ar": "حلاقة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/coiffeur.jpg"
           },
         {
             "des": "CENTRES DE REMISE EN FORME",
-            "code": "1189,557,836,839,561",
+            "code": "1190,558,837,840,562",
             "des_ar": "مراكز اللياقة البدنية",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/REMISE%20EN%20FORME.jpg"
           },
         {
             "des": "DEGRAISSAGE",
-            "code": "838",
+            "code": "839",
             "des_ar": "غسل الملابس",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/DEGRAISSAGE.jpg"
           }
@@ -161,7 +161,7 @@
         
         {
             "des": "HOTELS",
-            "code": "531,522,523,527,530,526,709,847,553",
+            "code": "531,522,523,527,530,526,709,848,553",
             "des_ar": "فنادق",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/HOTELS.jpg"
           },
@@ -184,13 +184,13 @@
       "act": [
         {
             "des": "TAXI",
-            "code": "889",
+            "code": "890",
             "des_ar": "سيارة أجرة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/taxi1.jpg"
         },
         {
             "des": "ENTREPRISE DE GESTION DE TAXIS",
-            "code": "588",
+            "code": "589",
             "des_ar": "شركة إدارة سيارات الأجرة",
             "imgact": "https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ENTREPRISE%20DE%20TAXI.jpg"
          }
@@ -206,7 +206,7 @@
       "act": [
         {
         "des": "ASSAINISSEMENT ET NETTOYAGE",
-        "code": "1183,1182,679,683,681,1186,1187,680,756,824,685,686",
+        "code": "1183,1182,679,683,681,1187,1188,680,757,825,685,686",
         "des_ar":"التنظيف و التطهير",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/assainissement.jpg"
         }
@@ -222,19 +222,19 @@
       "act": [
         {
         "des": "MAÇONNERIE",
-        "code": "475,512,926",
+        "code": "475,512,927",
         "des_ar":"البناء",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/macon.jpg"
         },
         {
         "des": "PLOMBIER",
-        "code": "504,992",
+        "code": "504,993",
         "des_ar":"الترصيص الصحي",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/plombier.jpg"
         },
         {
         "des": "PEINTRE",
-        "code": "515,999",
+        "code": "515,1000",
         "des_ar":"دهان",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/peintre.jpg"
         }
@@ -250,13 +250,13 @@
       "act": [
         {
         "des": "MECANICIEN AUTOMOBILE",
-        "code": "516,1194,1242",
+        "code": "516,1195,1243",
         "des_ar":"ميكانيكي سيارات",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/mecanique.jpg"
         },
         {
         "des": "MECANICIEN SUR LOURD",
-        "code": "1193,1242",
+        "code": "1194,786",
         "des_ar":"ميكانيكي الوزن الثقيل",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/MECANIQUE%20LOURD.jpg"
         },
