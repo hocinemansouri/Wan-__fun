@@ -267,6 +267,12 @@
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/MECANIQUE%20LOURD.jpg"
         },
         {
+        "des": "ELECTRICIEN AUTO",
+        "code": "517,820,821,1236",
+        "des_ar":"كهربائي السيارات",
+        "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/ELECTRICITEAUTO.jpg"
+        },
+        {
         "des": "STATION DE LAVAGE",
         "code": "636",
         "des_ar":"محطة الغسل و التشحيم",
