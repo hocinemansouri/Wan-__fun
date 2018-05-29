@@ -234,13 +234,13 @@
         },
         {
         "des": "PEINTRE",
-        "code": "515,1000",
+        "code": "515,1000,984",
         "des_ar":"دهان",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/peintre.jpg"
         },
         {
         "des": "ELECTRICIEN",
-        "code": "513,783,789,809,1008,1018",
+        "code": "513,783,789,809,1008,1018,324",
         "des_ar":"كهربائي",
         "imgact":"https://raw.githubusercontent.com/hocinemansouri/Wan-__fun/master/imgs/electricien.jpg"
 }
