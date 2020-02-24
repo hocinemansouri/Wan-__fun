@@ -1,29 +1,34 @@
-[{
-        "name": "Hocine Mansouri",
-        "age": "29",
-        "height": "182",
-        "gendre": "male",
-        "hair_color": "black"
+[
+    {
+        "title": "Note 1",
+        "text": "The content of note 1"
     },
     {
-        "name": "Yacine Bida",
-        "age": "28",
-        "height": "187",
-        "gendre": "male",
-        "hair_color": "black"
+        "title": "Note 2",
+        "text": "The content of note 2"
     },
     {
-        "name": "Saber Bouzergoun",
-        "age": "27",
-        "height": "175",
-        "gendre": "male",
-        "hair_color": "black"
+        "title": "Note 3",
+        "text": "The content of note 3"
     },
     {
-        "name": "Seif Mokhtari",
-        "age": "33",
-        "height": "175",
-        "gendre": "male",
-        "hair_color": "black"
+        "title": "Note 4",
+        "text": "The content of note 4"
+    },
+    {
+        "title": "Note 5",
+        "text": "The content of note 5"
+    },
+    {
+        "title": "Note 6",
+        "text": "The content of note 6"
+    },
+    {
+        "title": "Note 7",
+        "text": "The content of note 7"
+    },
+    {
+        "title": "Note 8",
+        "text": "The content of note 8"
     }
 ]
